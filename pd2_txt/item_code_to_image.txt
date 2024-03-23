@@ -1,0 +1,794 @@
+name	d2_type	code	type	sub_type	img_name	size_x	size_y
+Reflex Bow	abow	am2	weapon	bow	reflex_bow.sprite.00.png	2	4
+Ceremonial Bow	abow	am7	weapon	bow	reflex_bow.sprite.00.png	2	4
+Grand Matron Bow	abow	amc	weapon	bow	reflex_bow.sprite.00.png	2	4
+Stag Bow	abow	am1	weapon	bow	stag_bow.sprite.00.png	2	4
+Ashwood Bow	abow	am6	weapon	bow	stag_bow.sprite.00.png	2	4
+Matriarchal Bow	abow	amb	weapon	bow	stag_bow.sprite.00.png	2	4
+Maiden Javelin	ajav	am5	weapon	javelin	maiden_javelin.sprite.00.png	1	3
+Ceremonial Javelin	ajav	ama	weapon	javelin	maiden_javelin.sprite.00.png	1	3
+MatriarchalJavelin	ajav	amf	weapon	javelin	maiden_javelin.sprite.00.png	1	3
+Aerin Shield	ashd	pa4	armor	shield	aerin_shield.sprite.00.png	2	4
+Guilded Shield	ashd	pa9	armor	shield	aerin_shield.sprite.00.png	2	4
+Zakarum Shield	ashd	pae	armor	shield	aerin_shield.sprite.00.png	2	4
+Crown Shield	ashd	pa5	armor	shield	crown_shield.sprite.00.png	2	2
+Royal Shield	ashd	paa	armor	shield	crown_shield.sprite.00.png	2	2
+Vortex Shield	ashd	paf	armor	shield	crown_shield.sprite.00.png	2	2
+Heraldic Shield	ashd	pa3	armor	shield	heraldic_shield.sprite.00.png	2	4
+Protector Shield	ashd	pa8	armor	shield	heraldic_shield.sprite.00.png	2	4
+Ancient Shield	ashd	pad	armor	shield	heraldic_shield.sprite.00.png	2	4
+Rondache	ashd	pa2	armor	shield	rondache.sprite.00.png	2	2
+Akaran Rondache	ashd	pa7	armor	shield	rondache.sprite.00.png	2	2
+Sacred Rondache	ashd	pac	armor	shield	rondache.sprite.00.png	2	2
+Targe	ashd	pa1	armor	shield	targe.sprite.00.png	2	2
+Akaran Targe	ashd	pa6	armor	shield	targe.sprite.00.png	2	2
+Sacred Targe	ashd	pab	armor	shield	targe.sprite.00.png	2	2
+Maiden Pike	aspe	am4	weapon	spear	maiden_pike.sprite.00.png	2	4
+Ceremonial Pike	aspe	am9	weapon	spear	maiden_pike.sprite.00.png	2	4
+Matriarchal Pike	aspe	ame	weapon	spear	maiden_pike.sprite.00.png	2	4
+Maiden Spear	aspe	am3	weapon	spear	maiden_spear.sprite.00.png	2	4
+Ceremonial Spear	aspe	am8	weapon	spear	maiden_spear.sprite.00.png	2	4
+Matriarchal Spear	aspe	amd	weapon	spear	maiden_spear.sprite.00.png	2	4
+Axe	axe	axe	weapon	axe	axe.sprite.00.png	2	3
+Cleaver	axe	9ax	weapon	axe	axe.sprite.00.png	2	3
+Small Crescent	axe	7ax	weapon	axe	axe.sprite.00.png	2	3
+Tabar	axe	9bt	weapon	axe	battle_axe.sprite.00.png	2	3
+Decapitator	axe	7bt	weapon	axe	battle_axe.sprite.00.png	2	3
+Battle Axe	axe	btx	weapon	axe	battle_axe.sprite.00.png	2	3
+Broad Axe	axe	bax	weapon	axe	broad_axe.sprite.00.png	2	3
+Bearded Axe	axe	9ba	weapon	axe	broad_axe.sprite.00.png	2	3
+Silver Edged Axe	axe	7ba	weapon	axe	broad_axe.sprite.00.png	2	3
+Double Axe	axe	2ax	weapon	axe	double_axe.sprite.00.png	2	3
+Twin Axe	axe	92a	weapon	axe	double_axe.sprite.00.png	2	3
+Ettin Axe	axe	72a	weapon	axe	double_axe.sprite.00.png	2	3
+Glorious Axe	axe	7gi	weapon	axe	giant_axe.sprite.00.png	2	3
+Giant Axe	axe	gix	weapon	axe	giant_axe.sprite.00.png	2	3
+Gothic Axe	axe	9ga	weapon	axe	great_axe.sprite.00.png	2	4
+Champion Axe	axe	7ga	weapon	axe	great_axe.sprite.00.png	2	4
+Ancient Axe	axe	9gi	weapon	axe	giant_axe.sprite.00.png	2	3
+Great Axe	axe	gax	weapon	axe	great_axe.sprite.00.png	2	4
+Hand Axe	axe	hax	weapon	axe	hand_axe.sprite.00.png	1	3
+Hatchet	axe	9ha	weapon	axe	hand_axe.sprite.00.png	1	3
+Tomahawk	axe	7ha	weapon	axe	hand_axe.sprite.00.png	1	3
+Large Axe	axe	lax	weapon	axe	large_axe.sprite.00.png	2	3
+Military Axe	axe	9la	weapon	axe	large_axe.sprite.00.png	2	3
+Feral Axe	axe	7la	weapon	axe	large_axe.sprite.00.png	2	3
+Military Pick	axe	mpi	weapon	axe	military_pick.sprite.00.png	2	3
+Crowbill	axe	9mp	weapon	axe	military_pick.sprite.00.png	2	3
+War Spike	axe	7mp	weapon	axe	military_pick.sprite.00.png	2	3
+War Axe	axe	wax	weapon	axe	war_axe.sprite.00.png	2	3
+Naga	axe	9wa	weapon	axe	war_axe.sprite.00.png	2	3
+Berserker Axe	axe	7wa	weapon	axe	war_axe.sprite.00.png	2	3
+Troll Belt [S]	bels	rbe	armor	belt	heavy_belt.sprite.00.png	2	1
+Sash(L)	belt	lbl	armor	belt	sash_l.sprite.00.png	2	1
+Light Belt	belt	vbl	armor	belt	light_belt.sprite.00.png	2	1
+Belt(M)	belt	mbl	armor	belt	belt_m.sprite.00.png	2	1
+Heavy Belt	belt	tbl	armor	belt	heavy_belt.sprite.00.png	2	1
+Girdle(H)	belt	hbl	armor	belt	girdle_h.sprite.00.png	2	1
+Demonhide Sash	belt	zlb	armor	belt	sash_l.sprite.00.png	2	1
+Sharkskin Belt	belt	zvb	armor	belt	light_belt.sprite.00.png	2	1
+Mesh Belt	belt	zmb	armor	belt	belt_m.sprite.00.png	2	1
+Battle Belt	belt	ztb	armor	belt	heavy_belt.sprite.00.png	2	1
+War Belt	belt	zhb	armor	belt	girdle_h.sprite.00.png	2	1
+Spiderweb Sash	belt	ulc	armor	belt	sash_l.sprite.00.png	2	1
+Vampirefang Belt	belt	uvc	armor	belt	light_belt.sprite.00.png	2	1
+Mithril Coil	belt	umc	armor	belt	belt_m.sprite.00.png	2	1
+Troll Belt	belt	utc	armor	belt	heavy_belt.sprite.00.png	2	1
+Colossus Girdle	belt	uhc	armor	belt	girdle_h.sprite.00.png	2	1
+Leather Boots	boot	lbt	armor	boot	leather_boots.sprite.00.png	2	2
+Heavy Boots	boot	vbt	armor	boot	heavy_boots.sprite.00.png	2	2
+Chain Boots	boot	mbt	armor	boot	chain_boots.sprite.00.png	2	2
+Light Plate Boots	boot	tbt	armor	boot	light_plate_boots.sprite.00.png	2	2
+Plate Boots	boot	hbt	armor	boot	plate_boots.sprite.00.png	2	2
+Demonhide Boots	boot	xlb	armor	boot	leather_boots.sprite.00.png	2	2
+Sharkskin Boots	boot	xvb	armor	boot	heavy_boots.sprite.00.png	2	2
+Mesh Boots	boot	xmb	armor	boot	chain_boots.sprite.00.png	2	2
+Battle Boots	boot	xtb	armor	boot	light_plate_boots.sprite.00.png	2	2
+War Boots	boot	xhb	armor	boot	plate_boots.sprite.00.png	2	2
+Wyrmhide Boots	boot	ulb	armor	boot	leather_boots.sprite.00.png	2	2
+Scarabshell Boots	boot	uvb	armor	boot	heavy_boots.sprite.00.png	2	2
+Boneweave Boots	boot	umb	armor	boot	chain_boots.sprite.00.png	2	2
+Mirrored Boots	boot	utb	armor	boot	light_plate_boots.sprite.00.png	2	2
+Myrmidon Greaves	boot	uhb	armor	boot	plate_boots.sprite.00.png	2	2
+Long Siege Bow	bow	8l8	weapon	bow	long_battle_bow.sprite.00.png	2	4
+Gothic Bow	bow	8lw	weapon	bow	long_war_bow.sprite.00.png	2	4
+Crusader Bow	bow	6l7	weapon	bow	long_battle_bow.sprite.00.png	2	4
+Hydra Bow	bow	6lw	weapon	bow	long_war_bow.sprite.00.png	2	4
+Cedar Bow	bow	8lb	weapon	bow	composite_bow.sprite.00.png	2	3
+Double Bow	bow	8cb	weapon	bow	composite_bow.sprite.00.png	2	3
+Shadow Bow	bow	6lb	weapon	bow	long_bow.sprite.00.png	2	4
+Great Bow	bow	6cb	weapon	bow	composite_bow.sprite.00.png	2	3
+Short Siege Bow	bow	8s8	weapon	bow	short_war_bow.sprite.00.png	2	3
+Rune Bow	bow	8sw	weapon	bow	short_battle_bow.sprite.00.png	2	3
+Diamond Bow	bow	6s7	weapon	bow	short_war_bow.sprite.00.png	2	3
+Ward Bow	bow	6sw	weapon	bow	short_battle_bow.sprite.00.png	2	3
+Short Bow	bow	sbw	weapon	bow	short_bow.sprite.00.png	2	3
+Hunter's Bow	bow	hbw	weapon	bow	hunters_bow.sprite.00.png	2	3
+Long Bow	bow	lbw	weapon	bow	long_bow.sprite.00.png	2	4
+Composite Bow	bow	cbw	weapon	bow	composite_bow.sprite.00.png	2	3
+Short Battle Bow	bow	sbb	weapon	bow	short_battle_bow.sprite.00.png	2	3
+Long Battle Bow	bow	lbb	weapon	bow	long_battle_bow.sprite.00.png	2	4
+Short War Bow	bow	swb	weapon	bow	short_war_bow.sprite.00.png	2	3
+Long War Bow	bow	lwb	weapon	bow	long_war_bow.sprite.00.png	2	4
+Edge Bow	bow	8sb	weapon	bow	short_bow.sprite.00.png	2	3
+Razor Bow	bow	8hb	weapon	bow	hunters_bow.sprite.00.png	2	3
+Spider Bow	bow	6sb	weapon	bow	short_bow.sprite.00.png	2	3
+Blade Bow	bow	6hb	weapon	bow	hunters_bow.sprite.00.png	2	3
+Circlet	circ	ci0	armor	circlet	circlet.sprite.00.png	2	2
+Coronet	circ	ci1	armor	circlet	coronet.sprite.00.png	2	2
+Tiara	circ	ci2	armor	circlet	tiara.sprite.00.png	2	2
+Diadem	circ	ci3	armor	circlet	diadem.sprite.00.png	2	2
+Club	club	clb	weapon	club	club.sprite.00.png	1	3
+Spiked Club	club	spc	weapon	club	spiked_club.sprite.00.png	1	3
+Wirt's Leg	club	leg	weapon	club	wirts_leg.sprite.00.png	1	3
+Cudgel	club	9cl	weapon	club	club.sprite.00.png	1	3
+Barbed Club	club	9sp	weapon	club	spiked_club.sprite.00.png	1	3
+Truncheon	club	7cl	weapon	club	club.sprite.00.png	1	3
+Tyrant Club	club	7sp	weapon	club	spiked_club.sprite.00.png	1	3
+Gloves(L)	glov	lgl	armor	glove	gloves_l.sprite.00.png	2	2
+Heavy Gloves	glov	vgl	armor	glove	heavy_gloves.sprite.00.png	2	2
+Bracers(M)	glov	mgl	armor	glove	bracers_m.sprite.00.png	2	2
+Light Gauntlets	glov	tgl	armor	glove	light_gauntlets.sprite.00.png	2	2
+Gaunlets(H)	glov	hgl	armor	glove	gaunlets_h.sprite.00.png	2	2
+Demonhide Gloves	glov	xlg	armor	glove	gloves_l.sprite.00.png	2	2
+Sharkskin Gloves	glov	xvg	armor	glove	heavy_gloves.sprite.00.png	2	2
+Heavy Bracers	glov	xmg	armor	glove	bracers_m.sprite.00.png	2	2
+Battle Gauntlets	glov	xtg	armor	glove	light_gauntlets.sprite.00.png	2	2
+War Gauntlets	glov	xhg	armor	glove	gaunlets_h.sprite.00.png	2	2
+Bramble Mitts	glov	ulg	armor	glove	gloves_l.sprite.00.png	2	2
+Vampirebone Gloves	glov	uvg	armor	glove	heavy_gloves.sprite.00.png	2	2
+Vambraces	glov	umg	armor	glove	bracers_m.sprite.00.png	2	2
+Crusader Gauntlets	glov	utg	armor	glove	light_gauntlets.sprite.00.png	2	2
+Ogre Gauntlets	glov	uhg	armor	glove	gaunlets_h.sprite.00.png	2	2
+Hatchet Hands	h2h	axf	weapon	h2h	hatchet_hands.sprite.00.png	1	3
+Cestus	h2h	ces	weapon	h2h	hatchet_hands.sprite.00.png	1	3
+Fascia	h2h	9xf	weapon	h2h	hatchet_hands.sprite.00.png	1	3
+Claws	h2h	clw	weapon	h2h	claws.sprite.00.png	1	3
+Blade Talons	h2h	btl	weapon	h2h	claws.sprite.00.png	1	3
+Katar	h2h	ktr	weapon	h2h	katar.sprite.00.png	1	3
+Wrist Blade	h2h	wrb	weapon	h2h	katar.sprite.00.png	1	3
+Quhab	h2h	9ar	weapon	h2h	katar.sprite.00.png	1	3
+Wrist Spike	h2h	9wb	weapon	h2h	katar.sprite.00.png	1	3
+Scissors Katar	h2h	skr	weapon	h2h	scissors_katar.sprite.00.png	1	3
+Hand Scythe	h2h2	9cs	weapon	h2h	hatchet_hands.sprite.00.png	1	3
+War Fist	h2h2	7xf	weapon	h2h	hatchet_hands.sprite.00.png	1	3
+Battle Cestus	h2h2	7cs	weapon	h2h	hatchet_hands.sprite.00.png	1	3
+Greater Claws	h2h2	9lw	weapon	h2h	claws.sprite.00.png	1	3
+Greater Talons	h2h2	9tw	weapon	h2h	claws.sprite.00.png	1	3
+Feral Claws	h2h2	7lw	weapon	h2h	claws.sprite.00.png	1	3
+Runic Talons	h2h2	7tw	weapon	h2h	claws.sprite.00.png	1	3
+Suwayyah	h2h2	7ar	weapon	h2h	katar.sprite.00.png	1	3
+Wrist Sword	h2h2	7wb	weapon	h2h	katar.sprite.00.png	1	3
+Scissors Quhab	h2h2	9qr	weapon	h2h	scissors_katar.sprite.00.png	1	3
+Scissors Suwayyah	h2h2	7qr	weapon	h2h	scissors_katar.sprite.00.png	1	3
+War Hammer	hamm	whm	weapon	hammer	war_hammer.sprite.00.png	2	3
+Maul	hamm	mau	weapon	hammer	maul.sprite.00.png	2	4
+Great Maul	hamm	gma	weapon	hammer	great_maul.sprite.00.png	2	3
+War Club	hamm	9m9	weapon	hammer	maul.sprite.00.png	2	4
+Martel de Fer	hamm	9gm	weapon	hammer	great_maul.sprite.00.png	2	3
+Ogre Maul	hamm	7m7	weapon	hammer	maul.sprite.00.png	2	4
+Thunder Maul	hamm	7gm	weapon	hammer	great_maul.sprite.00.png	2	3
+Horadric Malus	hamm	hdm	weapon	hammer	horadric_malus.sprite.00.png	2	3
+Hellforge Hammer	hamm	hfh	weapon	hammer	hellforge_hammer.sprite.00.png	2	3
+Battle Hammer	hamm	9wh	weapon	hammer	war_hammer.sprite.00.png	2	3
+Legendary Mallet	hamm	7wh	weapon	hammer	war_hammer.sprite.00.png	2	3
+Preserved Head	head	ne1	armor	voodoo_head	preserved_head.sprite.00.png	2	2
+Zombie Head	head	ne2	armor	voodoo_head	zombie_head.sprite.00.png	2	2
+Unraveller Head	head	ne3	armor	voodoo_head	unraveller_head.sprite.00.png	2	2
+Gargoyle Head	head	ne4	armor	voodoo_head	gargoyle_head.sprite.00.png	2	2
+Demon Head	head	ne5	armor	voodoo_head	demon_head.sprite.00.png	2	2
+Mummified Trophy	head	ne6	armor	voodoo_head	preserved_head.sprite.00.png	2	2
+Fetish Trophy	head	ne7	armor	voodoo_head	zombie_head.sprite.00.png	2	2
+Sexton Trophy	head	ne8	armor	voodoo_head	unraveller_head.sprite.00.png	2	2
+Cantor Trophy	head	ne9	armor	voodoo_head	gargoyle_head.sprite.00.png	2	2
+Heirophant Trophy	head	nea	armor	voodoo_head	demon_head.sprite.00.png	2	2
+Minion Skull	head	neb	armor	voodoo_head	preserved_head.sprite.00.png	2	2
+Hellspawn Skull	head	neg	armor	voodoo_head	zombie_head.sprite.00.png	2	2
+Overseer Skull	head	ned	armor	voodoo_head	unraveller_head.sprite.00.png	2	2
+Succubae Skull	head	nee	armor	voodoo_head	gargoyle_head.sprite.00.png	2	2
+Bloodlord Skull	head	nef	armor	voodoo_head	demon_head.sprite.00.png	2	2
+Cap/hat	helm	cap	armor	helmet	cap_hat.sprite.00.png	2	2
+Skull Cap	helm	skp	armor	helmet	skull_cap.sprite.00.png	2	2
+Helm	helm	hlm	armor	helmet	helm.sprite.00.png	2	2
+Full Helm	helm	fhl	armor	helmet	full_helm.sprite.00.png	2	2
+Great Helm	helm	ghm	armor	helmet	great_helm.sprite.00.png	2	2
+Crown	helm	crn	armor	helmet	crown.sprite.00.png	2	2
+Mask	helm	msk	armor	helmet	mask.sprite.00.png	2	2
+Bone Helm	helm	bhm	armor	helmet	bone_helm.sprite.00.png	2	2
+War Hat	helm	xap	armor	helmet	cap_hat.sprite.00.png	2	2
+Sallet	helm	xkp	armor	helmet	skull_cap.sprite.00.png	2	2
+Casque	helm	xlm	armor	helmet	helm.sprite.00.png	2	2
+Basinet	helm	xhl	armor	helmet	full_helm.sprite.00.png	2	2
+Winged Helm	helm	xhm	armor	helmet	great_helm.sprite.00.png	2	2
+Grand Crown	helm	xrn	armor	helmet	crown.sprite.00.png	2	2
+Death Mask	helm	xsk	armor	helmet	mask.sprite.00.png	2	2
+Grim Helm	helm	xh9	armor	helmet	bone_helm.sprite.00.png	2	2
+Shako	helm	uap	armor	helmet	cap_hat.sprite.00.png	2	2
+Hydraskull	helm	ukp	armor	helmet	skull_cap.sprite.00.png	2	2
+Armet	helm	ulm	armor	helmet	helm.sprite.00.png	2	2
+Giant Conch	helm	uhl	armor	helmet	full_helm.sprite.00.png	2	2
+Spired Helm	helm	uhm	armor	helmet	great_helm.sprite.00.png	2	2
+Corona	helm	urn	armor	helmet	crown.sprite.00.png	2	2
+Demonhead	helm	usk	armor	helmet	mask.sprite.00.png	2	2
+Bone Visage	helm	uh9	armor	helmet	bone_helm.sprite.00.png	2	2
+Spiculum	jave	9gl	weapon	javelin	glaive.sprite.00.png	1	4
+Ghost Glaive	jave	7gl	weapon	javelin	glaive.sprite.00.png	1	4
+Javelin	jave	jav	weapon	javelin	javelin.sprite.00.png	1	3
+Pilum	jave	pil	weapon	javelin	pilum.sprite.00.png	1	3
+Short Spear	jave	ssp	weapon	javelin	short_spear.sprite.00.png	1	3
+Glaive	jave	glv	weapon	javelin	glaive.sprite.00.png	1	4
+Throwing Spear	jave	tsp	weapon	javelin	throwing_spear.sprite.00.png	1	4
+War Javelin	jave	9ja	weapon	javelin	javelin.sprite.00.png	1	3
+Simbilan	jave	9s9	weapon	javelin	short_spear.sprite.00.png	1	3
+Hyperion Javelin	jave	7ja	weapon	javelin	javelin.sprite.00.png	1	3
+Balrog Spear	jave	7s7	weapon	javelin	short_spear.sprite.00.png	1	3
+Great Pilum	jave	9pi	weapon	javelin	pilum.sprite.00.png	1	3
+Harpoon	jave	9ts	weapon	javelin	throwing_spear.sprite.00.png	1	4
+Stygian Pilum	jave	7pi	weapon	javelin	pilum.sprite.00.png	1	3
+Winged Harpoon	jave	7ts	weapon	javelin	throwing_spear.sprite.00.png	1	4
+Dagger	knif	dgr	weapon	knife	dagger.sprite.00.png	1	2
+Dirk	knif	dir	weapon	knife	dirk.sprite.00.png	1	2
+Kriss	knif	kri	weapon	knife	kriss.sprite.00.png	1	3
+Blade	knif	bld	weapon	knife	blade.sprite.00.png	1	3
+decoy dagger	knif	d33	weapon	knife	decoy_dagger.sprite.00.png	1	2
+Gidbinn	knif	g33	weapon	knife	gidbinn.sprite.00.png	1	2
+Poignard	knif	9dg	weapon	knife	dagger.sprite.00.png	1	2
+Stilleto	knif	9bl	weapon	knife	dirk.sprite.00.png	1	2
+Bone Knife	knif	7dg	weapon	knife	kriss.sprite.00.png	1	3
+Legend Spike	knif	7bl	weapon	knife	blade.sprite.00.png	1	3
+Rondel	knif	9di	weapon	knife	dagger.sprite.00.png	1	2
+Cinquedeas	knif	9kr	weapon	knife	dirk.sprite.00.png	1	2
+Mithral Point	knif	7di	weapon	knife	kriss.sprite.00.png	1	3
+Fanged Knife	knif	7kr	weapon	knife	blade.sprite.00.png	1	3
+Knout	mace	9fl	weapon	mace	flail.sprite.00.png	2	3
+KhalimFlail	mace	qf1	weapon	mace	khalim_flail.sprite.00.png	2	3
+SuperKhalimFlail	mace	qf2	weapon	mace	super_khalim_flail.sprite.00.png	2	3
+Scourge	mace	7fl	weapon	mace	flail.sprite.00.png	2	3
+Mace	mace	mac	weapon	mace	mace.sprite.00.png	1	3
+Morning Star	mace	mst	weapon	mace	morning_star.sprite.00.png	1	3
+Flail	mace	fla	weapon	mace	flail.sprite.00.png	2	3
+Flanged Mace	mace	9ma	weapon	mace	mace.sprite.00.png	1	3
+Jagged Star	mace	9mt	weapon	mace	morning_star.sprite.00.png	1	3
+Reinforced Mace	mace	7ma	weapon	mace	mace.sprite.00.png	1	3
+Devil Star	mace	7mt	weapon	mace	morning_star.sprite.00.png	1	3
+Eagle Orb	orb	ob1	weapon	orb	eagle_orb.sprite.00.png	1	2
+Sacred Globe	orb	ob2	weapon	orb	sacred_globe.sprite.00.png	1	2
+Smoked Sphere	orb	ob3	weapon	orb	smoked_sphere.sprite.00.png	1	2
+Clasped Orb	orb	ob4	weapon	orb	clasped_orb.sprite.00.png	1	2
+Dragon Stone	orb	ob5	weapon	orb	dragon_stone.sprite.00.png	1	3
+Glowing Orb	orb	ob6	weapon	orb	eagle_orb.sprite.00.png	1	2
+Crystalline Globe	orb	ob7	weapon	orb	sacred_globe.sprite.00.png	1	2
+Cloudy Sphere	orb	ob8	weapon	orb	smoked_sphere.sprite.00.png	1	2
+Sparkling Ball	orb	ob9	weapon	orb	clasped_orb.sprite.00.png	1	2
+Swirling Crystal	orb	oba	weapon	orb	dragon_stone.sprite.00.png	1	3
+Heavenly Stone	orb	obb	weapon	orb	eagle_orb.sprite.00.png	1	2
+Eldritch Orb	orb	obc	weapon	orb	sacred_globe.sprite.00.png	1	2
+Demon Heart	orb	obd	weapon	orb	smoked_sphere.sprite.00.png	1	2
+Vortex Orb	orb	obe	weapon	orb	clasped_orb.sprite.00.png	1	2
+Dimensional Shard	orb	obf	weapon	orb	dragon_stone.sprite.00.png	1	3
+Wolf Head	pelt	dr1	armor	pelt	wolf_head.sprite.00.png	2	2
+Hawk Helm	pelt	dr2	armor	pelt	hawk_helm.sprite.00.png	2	2
+Antlers	pelt	dr3	armor	pelt	antlers.sprite.00.png	2	2
+Falcon Mask	pelt	dr4	armor	pelt	falcon_mask.sprite.00.png	2	2
+Spirit Mask	pelt	dr5	armor	pelt	spirit_mask.sprite.00.png	2	2
+Alpha Helm	pelt	dr6	armor	pelt	wolf_head.sprite.00.png	2	2
+Griffon Headress	pelt	dr7	armor	pelt	hawk_helm.sprite.00.png	2	2
+Hunter's Guise	pelt	dr8	armor	pelt	antlers.sprite.00.png	2	2
+Sacred Feathers	pelt	dr9	armor	pelt	falcon_mask.sprite.00.png	2	2
+Totemic Mask	pelt	dra	armor	pelt	spirit_mask.sprite.00.png	2	2
+Blood Spirt	pelt	drb	armor	pelt	wolf_head.sprite.00.png	2	2
+Sun Spirit	pelt	drc	armor	pelt	hawk_helm.sprite.00.png	2	2
+Earth Spirit	pelt	drd	armor	pelt	antlers.sprite.00.png	2	2
+Sky Spirit	pelt	dre	armor	pelt	falcon_mask.sprite.00.png	2	2
+Dream Spirit	pelt	drf	armor	pelt	spirit_mask.sprite.00.png	2	2
+Jawbone Cap	phlm	ba1	armor	helmet	jawbone_cap.sprite.00.png	2	2
+Fanged Helm	phlm	ba2	armor	helmet	fanged_helm.sprite.00.png	2	2
+Horned Helm	phlm	ba3	armor	helmet	horned_helm.sprite.00.png	2	2
+Assault Helmet	phlm	ba4	armor	helmet	assault_helmet.sprite.00.png	2	2
+Avenger Guard	phlm	ba5	armor	helmet	avenger_guard.sprite.00.png	2	2
+Jawbone Visor	phlm	ba6	armor	helmet	jawbone_cap.sprite.00.png	2	2
+Lion Helm	phlm	ba7	armor	helmet	fanged_helm.sprite.00.png	2	2
+Rage Mask	phlm	ba8	armor	helmet	horned_helm.sprite.00.png	2	2
+Savage Helmet	phlm	ba9	armor	helmet	assault_helmet.sprite.00.png	2	2
+Slayer Guard	phlm	baa	armor	helmet	avenger_guard.sprite.00.png	2	2
+Carnage Helm	phlm	bab	armor	helmet	jawbone_cap.sprite.00.png	2	2
+Fury Visor	phlm	bac	armor	helmet	fanged_helm.sprite.00.png	2	2
+Destroyer Helm	phlm	bad	armor	helmet	horned_helm.sprite.00.png	2	2
+Conquerer Crown	phlm	bae	armor	helmet	assault_helmet.sprite.00.png	2	2
+Guardian Crown	phlm	baf	armor	helmet	avenger_guard.sprite.00.png	2	2
+Bardiche	pole	bar	weapon	polearm	bardiche.sprite.00.png	2	4
+Voulge	pole	vou	weapon	polearm	voulge.sprite.00.png	2	4
+Poleaxe	pole	pax	weapon	polearm	poleaxe.sprite.00.png	2	4
+Halberd	pole	hal	weapon	polearm	halberd.sprite.00.png	2	4
+Lochaber Axe	pole	9b7	weapon	polearm	bardiche.sprite.00.png	2	4
+Bec-de-Corbin	pole	9h9	weapon	polearm	halberd.sprite.00.png	2	4
+Ogre Axe	pole	7o7	weapon	polearm	bardiche.sprite.00.png	2	4
+Great Poleaxe	pole	7h7	weapon	polearm	halberd.sprite.00.png	2	4
+Bill	pole	9vo	weapon	polearm	voulge.sprite.00.png	2	4
+Partizan	pole	9pa	weapon	polearm	poleaxe.sprite.00.png	2	4
+Colossus Voulge	pole	7vo	weapon	polearm	voulge.sprite.00.png	2	4
+Cryptic Axe	pole	7pa	weapon	polearm	poleaxe.sprite.00.png	2	4
+Scythe	sc9	scy	weapon	polearm	scythe.sprite.00.png	2	4
+War Scythe	sc9	wsc	weapon	polearm	war_scythe.sprite.00.png	2	4
+Battle Scythe	sc9	9s8	weapon	polearm	scythe.sprite.00.png	2	4
+Grim Scythe	sc9	9wc	weapon	polearm	war_scythe.sprite.00.png	2	4
+Thresher	sc9	7s8	weapon	polearm	scythe.sprite.00.png	2	4
+Giant Thresher	sc9	7wc	weapon	polearm	war_scythe.sprite.00.png	2	4
+Scepter	scep	scp	weapon	scepter	scepter.sprite.00.png	1	3
+Grand Scepter	scep	gsc	weapon	scepter	grand_scepter.sprite.00.png	1	3
+War Scepter	scep	wsp	weapon	scepter	war_scepter.sprite.00.png	1	3
+Rune Scepter	scep	9sc	weapon	scepter	scepter.sprite.00.png	1	3
+Holy Water Sprinkler	scep	9qs	weapon	scepter	grand_scepter.sprite.00.png	1	3
+Mighty Scepter	scep	7sc	weapon	scepter	war_scepter.sprite.00.png	1	3
+Seraph Rod	scep	7qs	weapon	scepter	scepter.sprite.00.png	1	3
+Divine Scepter	scep	9ws	weapon	scepter	grand_scepter.sprite.00.png	1	3
+Caduceus	scep	7ws	weapon	scepter	war_scepter.sprite.00.png	1	3
+Buckler	shie	buc	armor	shield	buckler.sprite.00.png	2	2
+Small Shield	shie	sml	armor	shield	small_shield.sprite.00.png	2	2
+Large Shield	shie	lrg	armor	shield	large_shield.sprite.00.png	2	3
+Kite Shield	shie	kit	armor	shield	kite_shield.sprite.00.png	2	3
+Tower Shield	shie	tow	armor	shield	tower_shield.sprite.00.png	2	3
+Gothic Shield	shie	gts	armor	shield	gothic_shield.sprite.00.png	2	4
+Bone Shield	shie	bsh	armor	shield	bone_shield.sprite.00.png	2	3
+Spiked Shield	shie	spk	armor	shield	spiked_shield.sprite.00.png	2	3
+Defender	shie	xuc	armor	shield	buckler.sprite.00.png	2	2
+Round Shield	shie	xml	armor	shield	small_shield.sprite.00.png	2	2
+Scutum	shie	xrg	armor	shield	large_shield.sprite.00.png	2	3
+Dragon Shield	shie	xit	armor	shield	kite_shield.sprite.00.png	2	3
+Pavise	shie	xow	armor	shield	tower_shield.sprite.00.png	2	3
+Ancient Shield	shie	xts	armor	shield	gothic_shield.sprite.00.png	2	4
+Grim Shield	shie	xsh	armor	shield	bone_shield.sprite.00.png	2	3
+Barbed Shield	shie	xpk	armor	shield	spiked_shield.sprite.00.png	2	3
+Heater	shie	uuc	armor	shield	buckler.sprite.00.png	2	2
+Luna	shie	uml	armor	shield	small_shield.sprite.00.png	2	2
+Hyperion	shie	urg	armor	shield	large_shield.sprite.00.png	2	3
+Monarch	shie	uit	armor	shield	kite_shield.sprite.00.png	2	3
+Aegis	shie	uow	armor	shield	tower_shield.sprite.00.png	2	3
+Ward	shie	uts	armor	shield	gothic_shield.sprite.00.png	2	4
+Troll Nest	shie	ush	armor	shield	bone_shield.sprite.00.png	2	3
+Blade Barrier	shie	upk	armor	shield	spiked_shield.sprite.00.png	2	3
+War Fork	spea	9br	weapon	spear	brandistock.sprite.00.png	2	4
+Mancatcher	spea	7br	weapon	spear	brandistock.sprite.00.png	2	4
+Lance	spea	9p9	weapon	spear	pike.sprite.00.png	2	4
+War Pike	spea	7p7	weapon	spear	pike.sprite.00.png	2	4
+Spear	spea	spr	weapon	spear	spear.sprite.00.png	2	4
+Trident	spea	tri	weapon	spear	trident.sprite.00.png	2	4
+Brandistock	spea	brn	weapon	spear	brandistock.sprite.00.png	2	4
+Spetum	spea	spt	weapon	spear	spetum.sprite.00.png	2	4
+Pike	spea	pik	weapon	spear	pike.sprite.00.png	2	4
+War Spear	spea	9sr	weapon	spear	spear.sprite.00.png	2	4
+Hyperion Spear	spea	7sr	weapon	spear	spear.sprite.00.png	2	4
+Fuscina	spea	9tr	weapon	spear	trident.sprite.00.png	2	4
+Yari	spea	9st	weapon	spear	spetum.sprite.00.png	2	4
+Stygian Pike	spea	7tr	weapon	spear	trident.sprite.00.png	2	4
+Ghost Spear	spea	7st	weapon	spear	spetum.sprite.00.png	2	4
+Short Staff	staf	sst	weapon	staff	short_staff.sprite.00.png	1	3
+Long Staff	staf	lst	weapon	staff	long_staff.sprite.00.png	1	4
+Gnarled Staff	staf	cst	weapon	staff	gnarled_staff.sprite.00.png	1	4
+Battle Staff	staf	bst	weapon	staff	battle_staff.sprite.00.png	1	4
+War Staff	staf	wst	weapon	staff	war_staff.sprite.00.png	1	4
+Horadric Staff	staf	hst	weapon	staff	horadric_staff.sprite.00.png	1	4
+Staff of the Kings	staf	msf	weapon	staff	staff_of_the_kings.sprite.00.png	1	4
+Jo Staff	staf	8ss	weapon	staff	short_staff.sprite.00.png	1	3
+Walking Stick	staf	6ss	weapon	staff	short_staff.sprite.00.png	1	3
+Cedar Staff	staf	8cs	weapon	staff	gnarled_staff.sprite.00.png	1	4
+Elder Staff	staf	6cs	weapon	staff	gnarled_staff.sprite.00.png	1	4
+Rune Staff	staf	8ws	weapon	staff	war_staff.sprite.00.png	1	4
+Archon Staff	staf	6ws	weapon	staff	war_staff.sprite.00.png	1	4
+Quarterstaff	staf	8ls	weapon	staff	battle_staff.sprite.00.png	1	4
+Gothic Staff	staf	8bs	weapon	staff	battle_staff.sprite.00.png	1	4
+Stalagmite	staf	6ls	weapon	staff	battle_staff.sprite.00.png	1	4
+Shillelah	staf	6bs	weapon	staff	battle_staff.sprite.00.png	1	4
+Two-Handed Sword	swor	2hs	weapon	sword	two_handed_sword.sprite.00.png	1	4
+Legend Sword	swor	72h	weapon	sword	two_handed_sword.sprite.00.png	1	4
+Champion Sword	swor	7b7	weapon	sword	bastard_sword.sprite.00.png	1	4
+Conquest Sword	swor	7bs	weapon	sword	broad_sword.sprite.00.png	2	3
+Highland Blade	swor	7cm	weapon	sword	claymore.sprite.00.png	1	4
+Phase Blade	swor	7cr	weapon	sword	crystal_sword.sprite.00.png	2	3
+Colossal Sword	swor	7fb	weapon	sword	flamberge.sprite.00.png	2	4
+Hydra Edge	swor	7fc	weapon	sword	falchion.sprite.00.png	1	3
+Colossus Blade	swor	7gd	weapon	sword	great_sword.sprite.00.png	2	4
+Balrog Blade	swor	7gs	weapon	sword	giant_sword.sprite.00.png	1	4
+Cryptic Sword	swor	7ls	weapon	sword	long_sword.sprite.00.png	2	3
+Elegant Blade	swor	7sb	weapon	sword	saber.sprite.00.png	1	3
+Ataghan	swor	7sm	weapon	sword	scimitar.sprite.00.png	1	3
+Falcata	swor	7ss	weapon	sword	short_sword.sprite.00.png	1	3
+Mythical Sword	swor	7wd	weapon	sword	war_sword.sprite.00.png	1	3
+Espadon	swor	92h	weapon	sword	two_handed_sword.sprite.00.png	1	4
+Gothic Sword	swor	9b9	weapon	sword	bastard_sword.sprite.00.png	1	4
+Battle Sword	swor	9bs	weapon	sword	broad_sword.sprite.00.png	2	3
+Dacian Falx	swor	9cm	weapon	sword	claymore.sprite.00.png	1	4
+Dimensional Blade	swor	9cr	weapon	sword	crystal_sword.sprite.00.png	2	3
+Zweihander	swor	9fb	weapon	sword	flamberge.sprite.00.png	2	4
+Tulwar	swor	9fc	weapon	sword	falchion.sprite.00.png	1	3
+Executioner Sword	swor	9gd	weapon	sword	great_sword.sprite.00.png	2	4
+Tusk Sword	swor	9gs	weapon	sword	giant_sword.sprite.00.png	1	4
+Rune Sword	swor	9ls	weapon	sword	long_sword.sprite.00.png	2	3
+Shamshir	swor	9sb	weapon	sword	saber.sprite.00.png	1	3
+Cutlass	swor	9sm	weapon	sword	scimitar.sprite.00.png	1	3
+Gladius	swor	9ss	weapon	sword	short_sword.sprite.00.png	1	3
+Ancient Sword	swor	9wd	weapon	sword	war_sword.sprite.00.png	1	3
+Broad Sword	swor	bsd	weapon	sword	broad_sword.sprite.00.png	2	3
+Bastard Sword	swor	bsw	weapon	sword	bastard_sword.sprite.00.png	1	4
+Claymore	swor	clm	weapon	sword	claymore.sprite.00.png	1	4
+Crystal Sword	swor	crs	weapon	sword	crystal_sword.sprite.00.png	2	3
+Flamberge	swor	flb	weapon	sword	flamberge.sprite.00.png	2	4
+Falchion	swor	flc	weapon	sword	falchion.sprite.00.png	1	3
+Giant Sword	swor	gis	weapon	sword	giant_sword.sprite.00.png	1	4
+Great Sword	swor	gsd	weapon	sword	great_sword.sprite.00.png	1	4
+Long Sword	swor	lsd	weapon	sword	long_sword.sprite.00.png	2	3
+Saber	swor	sbr	weapon	sword	saber.sprite.00.png	1	3
+Scimitar	swor	scm	weapon	sword	scimitar.sprite.00.png	1	3
+Short Sword	swor	ssd	weapon	sword	short_sword.sprite.00.png	1	3
+War Sword	swor	wsd	weapon	sword	war_sword.sprite.00.png	1	3
+Throwing Axe	taxe	tax	weapon	axe	throwing_axe.sprite.00.png	1	2
+Balanced Axe	taxe	bal	weapon	axe	balanced_axe.sprite.00.png	2	3
+Francisca	taxe	9ta	weapon	axe	throwing_axe.sprite.00.png	1	2
+Hurlbat	taxe	9b8	weapon	axe	balanced_axe.sprite.00.png	2	3
+Flying Axe	taxe	7ta	weapon	axe	throwing_axe.sprite.00.png	1	2
+Winged Axe	taxe	7b8	weapon	axe	balanced_axe.sprite.00.png	2	3
+Throwing Knife	tkni	tkf	weapon	knife	throwing_knife.sprite.00.png	1	2
+Balanced Knife	tkni	bkf	weapon	knife	balanced_knife.sprite.00.png	1	2
+Battle Dart	tkni	9tk	weapon	knife	throwing_knife.sprite.00.png	1	2
+War Dart	tkni	9bk	weapon	knife	balanced_knife.sprite.00.png	1	2
+Flying Knife	tkni	7tk	weapon	knife	throwing_knife.sprite.00.png	1	2
+Winged Knife	tkni	7bk	weapon	knife	balanced_knife.sprite.00.png	1	2
+Quilted Armor	tors	qui	armor	armor	quilted_armor.sprite.00.png	2	3
+Leather Armor	tors	lea	armor	armor	leather_armor.sprite.00.png	2	3
+Hard Leather Armor	tors	hla	armor	armor	hard_leather_armor.sprite.00.png	2	3
+Studded Leather	tors	stu	armor	armor	studded_leather.sprite.00.png	2	3
+Ring Mail	tors	rng	armor	armor	ring_mail.sprite.00.png	2	3
+Scale Mail	tors	scl	armor	armor	scale_mail.sprite.00.png	2	3
+Chain Mail	tors	chn	armor	armor	chain_mail.sprite.00.png	2	3
+Breast Plate	tors	brs	armor	armor	breast_plate.sprite.00.png	2	3
+Splint Mail	tors	spl	armor	armor	splint_mail.sprite.00.png	2	3
+Plate Mail	tors	plt	armor	armor	plate_mail.sprite.00.png	2	3
+Field Plate	tors	fld	armor	armor	field_plate.sprite.00.png	2	3
+Gothic Plate	tors	gth	armor	armor	gothic_plate.sprite.00.png	2	3
+Full Plate Mail	tors	ful	armor	armor	full_plate_mail.sprite.00.png	2	3
+Ancient Armor	tors	aar	armor	armor	ancient_armor.sprite.00.png	2	3
+Light Plate	tors	ltp	armor	armor	light_plate.sprite.00.png	2	3
+Ghost Armor	tors	xui	armor	armor	quilted_armor.sprite.00.png	2	3
+Serpentskin Armor	tors	xea	armor	armor	leather_armor.sprite.00.png	2	3
+Demonhide Armor	tors	xla	armor	armor	hard_leather_armor.sprite.00.png	2	3
+Trellised Armor	tors	xtu	armor	armor	studded_leather.sprite.00.png	2	3
+Linked Mail	tors	xng	armor	armor	ring_mail.sprite.00.png	2	3
+Tigulated Mail	tors	xcl	armor	armor	scale_mail.sprite.00.png	2	3
+Mesh Armor	tors	xhn	armor	armor	chain_mail.sprite.00.png	2	3
+Cuirass	tors	xrs	armor	armor	breast_plate.sprite.00.png	2	3
+Russet Armor	tors	xpl	armor	armor	splint_mail.sprite.00.png	2	3
+Templar Coat	tors	xlt	armor	armor	plate_mail.sprite.00.png	2	3
+Sharktooth Armor	tors	xld	armor	armor	field_plate.sprite.00.png	2	3
+Embossed Plate	tors	xth	armor	armor	gothic_plate.sprite.00.png	2	3
+Chaos Armor	tors	xul	armor	armor	full_plate_mail.sprite.00.png	2	3
+Ornate Armor	tors	xar	armor	armor	ancient_armor.sprite.00.png	2	3
+Mage Plate	tors	xtp	armor	armor	light_plate.sprite.00.png	2	3
+Dusk Shroud	tors	uui	armor	armor	quilted_armor.sprite.00.png	2	3
+Wyrmhide	tors	uea	armor	armor	leather_armor.sprite.00.png	2	3
+Scarab Husk	tors	ula	armor	armor	hard_leather_armor.sprite.00.png	2	3
+Wire Fleece	tors	utu	armor	armor	studded_leather.sprite.00.png	2	3
+Diamond Mail	tors	ung	armor	armor	ring_mail.sprite.00.png	2	3
+Loricated Mail	tors	ucl	armor	armor	scale_mail.sprite.00.png	2	3
+Boneweave	tors	uhn	armor	armor	chain_mail.sprite.00.png	2	3
+Great Hauberk	tors	urs	armor	armor	breast_plate.sprite.00.png	2	3
+Balrog Skin	tors	upl	armor	armor	splint_mail.sprite.00.png	2	3
+Hellforged Plate	tors	ult	armor	armor	plate_mail.sprite.00.png	2	3
+Kraken Shell	tors	uld	armor	armor	field_plate.sprite.00.png	2	3
+Lacquered Plate	tors	uth	armor	armor	gothic_plate.sprite.00.png	2	3
+Shadow Plate	tors	uul	armor	armor	full_plate_mail.sprite.00.png	2	3
+Sacred Armor	tors	uar	armor	armor	ancient_armor.sprite.00.png	2	3
+Archon Plate	tors	utp	armor	armor	light_plate.sprite.00.png	2	3
+Boneweave [S]	tors	rar	armor	armor	chain_mail.sprite.00.png	2	3
+Rancid Gas Potion	tpot	gps	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Gas Large	tpot	tpgl	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Cold Small	tpot	tpcs	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+Choking Gas Potion	tpot	gpm	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+Strangling Gas Potion	tpot	gpl	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Gas Small	tpot	tpgs	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Gas Medium	tpot	tpgm	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Cold Medium	tpot	tpcm	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Cold Large	tpot	tpcl	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+Oil Potion	tpot	ops	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+Exploding Potion	tpot	opm	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Fire Medium	tpot	tpfm	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Fire Large	tpot	tpfl	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Light Small	tpot	tpls	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Light Medium	tpot	tplm	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+Fulminating Potion	tpot	opl	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Fire Small	tpot	tpfs	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+TPot Light Large	tpot	tpll	weapon	potion	choking_gas_potion.sprite.00.png	1	1
+Tomb Wand	wand	9bw	weapon	wand	bone_wand.sprite.00.png	1	2
+Grave Wand	wand	9gw	weapon	wand	grim_wand.sprite.00.png	1	2
+Lich Wand	wand	7bw	weapon	wand	bone_wand.sprite.00.png	1	2
+Unearthed Wand	wand	7gw	weapon	wand	grim_wand.sprite.00.png	1	2
+Wand	wand	wnd	weapon	wand	wand.sprite.00.png	1	2
+Yew Wand	wand	ywn	weapon	wand	yew_wand.sprite.00.png	1	2
+Bone Wand	wand	bwn	weapon	wand	bone_wand.sprite.00.png	1	2
+Grim Wand	wand	gwn	weapon	wand	grim_wand.sprite.00.png	1	2
+Burnt Wand	wand	9wn	weapon	wand	wand.sprite.00.png	1	2
+Polished Wand	wand	7wn	weapon	wand	wand.sprite.00.png	1	2
+Petrified Wand	wand	9yw	weapon	wand	yew_wand.sprite.00.png	1	2
+Ghost Wand	wand	7yw	weapon	wand	yew_wand.sprite.00.png	1	2
+Balista	xbow	8hx	weapon	bow	heavy_crossbow.sprite.00.png	2	4
+Chu-Ko-Nu	xbow	8rx	weapon	bow	repeating_crossbow.sprite.00.png	2	3
+Colossus Crossbow	xbow	6hx	weapon	bow	heavy_crossbow.sprite.00.png	2	4
+Demon Crossbow	xbow	6rx	weapon	bow	repeating_crossbow.sprite.00.png	2	3
+Light Crossbow	xbow	lxb	weapon	bow	light_crossbow.sprite.00.png	2	3
+Crossbow	xbow	mxb	weapon	bow	crossbow.sprite.00.png	2	3
+Heavy Crossbow	xbow	hxb	weapon	bow	heavy_crossbow.sprite.00.png	2	4
+Repeating Crossbow	xbow	rxb	weapon	bow	repeating_crossbow.sprite.00.png	2	3
+Arbalest	xbow	8lx	weapon	bow	light_crossbow.sprite.00.png	2	3
+Siege Crossbow	xbow	8mx	weapon	bow	crossbow.sprite.00.png	2	3
+Pellet Bow	xbow	6lx	weapon	bow	light_crossbow.sprite.00.png	2	3
+Gorgon Crossbow	xbow	6mx	weapon	bow	crossbow.sprite.00.png	2	3
+elixir	elixir	elx	misc	potion	elixir.sprite.00.png	1	1
+Healing Potion	Healing Potion	hpo	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Mana Potion	Mana Potion	mpo	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Full Healing Potion	Full Healing Potion	hpf	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Full Mana Potion	Full Mana Potion	mpf	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Stamina Potion	Stamina Potion	vps	misc	potion	stamina_potion.sprite.00.png	1	1
+Antidote Potion	Antidote Potion	yps	misc	potion	antidote_potion.sprite.00.png	1	1
+Rejuv Potion	Rejuv Potion	rvs	misc	potion	full_rejuv_potion.sprite.00.png	1	1
+Full Rejuv Potion	Full Rejuv Potion	rvl	misc	potion	full_rejuv_potion.sprite.00.png	1	1
+Thawing Potion	Thawing Potion	wms	misc	potion	thawing_potion.sprite.00.png	1	1
+Town Portal Book	Town Portal Book	tbk	misc	book	town_portal_book.sprite.00.png	1	2
+Identify Book	Identify Book	ibk	misc	book	identify_book.sprite.00.png	1	2
+amulet	amulet	amu	misc	amulet	amulet2.sprite.00.png	1	1
+viper amulet	viper amulet	vip	misc	amulet	viper_amulet.sprite.00.png	1	1
+ring	ring	rin	misc	ring	ring.sprite.00.png	1	1
+gold	gold	gld	misc	gold	gold.sprite.00.png	1	1
+Bark Scroll	Bark Scroll	bks	misc	quest	bark_scroll.sprite.00.png	2	2
+deciphered Bark Scroll	deciphered Bark Scroll	bkd	misc	quest	bark_scroll.sprite.00.png	2	2
+Arrows	Arrows	aqv	misc	quiver	arrows.sprite.00.png	1	3
+Torch	Torch	tch	misc	torch	torch.sprite.00.png	1	2
+Bolts	Bolts	cqv	misc	quiver	bolts.sprite.00.png	1	3
+Town Portal Scroll	Town Portal Scroll	tsc	misc	scroll	town_portal_scroll.sprite.00.png	1	1
+Identify Scroll	Identify Scroll	isc	misc	scroll	identify_scroll.sprite.00.png	1	1
+Heart	Not used	hrt	misc	body_part	heart.sprite.00.png	1	1
+Brain	Not used	brz	misc	body_part	brain.sprite.00.png	1	1
+Jawbone	Not used	jaw	misc	body_part	jawbone.sprite.00.png	1	1
+Eye	Not used	eyz	misc	body_part	eye.sprite.00.png	1	1
+Horn	Not used	hrn	misc	body_part	horn.sprite.00.png	1	1
+Tail	Not used	tal	misc	body_part	tail.sprite.00.png	1	1
+Flag	Not used	flg	misc	body_part	flag.sprite.00.png	1	1
+Fang	Not used	fng	misc	body_part	fang.sprite.00.png	1	1
+Quill	Not used	qll	misc	body_part	quill.sprite.00.png	1	1
+Soul	Not used	sol	misc	body_part	soul.sprite.00.png	1	1
+Scalp	Not used	scz	misc	body_part	tail.sprite.00.png	1	1
+Spleen	Not used	spe	misc	body_part	spleen.sprite.00.png	1	1
+Skeleton Key	Skeleton Key	key	misc	key	skeleton_key.sprite.00.png	1	1
+Mephisto Key	Mephisto Key	luv	misc	key	mephisto_key.sprite.00.png	1	2
+scroll of self resurrect	scroll of self resurrect	xyz	misc	quest	scroll_of_self_resurrect.sprite.00.png	2	2
+jade figurine	jade figurine	j34	misc	quest	jade_figurine.sprite.00.png	1	2
+gold bird	gold bird	g34	misc	quest	gold_bird.sprite.00.png	1	2
+lam esen's tome	lam esen's tome	bbb	misc	quest	lam_esens_tome.sprite.00.png	2	2
+Horadric Cube	Horadric Cube	box	misc	quest	horadric_cube.sprite.00.png	2	2
+Scroll of Horadric Quest Info	Scroll of Horadric Quest Info	tr1	misc	quest	scroll_of_horadric_quest_info.sprite.00.png	2	2
+Mephisto SoulStone	Mephisto SoulStone	mss	misc	quest	mephisto_soul_stone.sprite.00.png	1	1
+Book of Skill	Book of Skill	ass	misc	quest	book_of_skill.sprite.00.png	2	2
+KhalimEye	KhalimEye	qey	misc	body_part	eye.sprite.00.png	1	1
+KhalimHeart	KhalimHeart	qhr	misc	body_part	heart.sprite.00.png	1	1
+KhalimBrain	KhalimBrain	qbr	misc	body_part	brain.sprite.00.png	1	1
+Player Ear	Player Ear	ear	misc	body_part	player_ear.sprite.00.png	1	1
+Chipped Amethyst	Chipped Amethyst	gcv	misc	gem	chipped_amethyst.sprite.00.png	1	1
+Flawed Amethyst	Flawed Amethyst	gfv	misc	gem	flawed_amethyst.sprite.00.png	1	1
+Amethyst	Amethyst	gsv	misc	gem	amethyst.sprite.00.png	1	1
+Flawless Amethyst	Flawless Amethyst	gzv	misc	gem	flawless_amethyst.sprite.00.png	1	1
+Perfect Amethyst	Perfect Amethyst	gpv	misc	gem	perfect_amethyst.sprite.00.png	1	1
+Chipped Topaz	Chipped Topaz	gcy	misc	gem	chipped_topaz.sprite.00.png	1	1
+Flawed Topaz	Flawed Topaz	gfy	misc	gem	flawed_topaz.sprite.00.png	1	1
+Topaz	Topaz	gsy	misc	gem	topaz.sprite.00.png	1	1
+Flawless Topaz	Flawless Topaz	gly	misc	gem	flawless_topaz.sprite.00.png	1	1
+Perfect Topaz	Perfect Topaz	gpy	misc	gem	perfect_topaz.sprite.00.png	1	1
+Chipped Saphire	Chipped Saphire	gcb	misc	gem	chipped_saphire.sprite.00.png	1	1
+Flawed Saphire	Flawed Saphire	gfb	misc	gem	flawed_saphire.sprite.00.png	1	1
+Saphire	Saphire	gsb	misc	gem	saphire.sprite.00.png	1	1
+Flawless Saphire	Flawless Saphire	glb	misc	gem	flawless_saphire.sprite.00.png	1	1
+Perfect Saphire	Perfect Saphire	gpb	misc	gem	perfect_saphire.sprite.00.png	1	1
+Chipped Emerald	Chipped Emerald	gcg	misc	gem	chipped_emerald.sprite.00.png	1	1
+Flawed Emerald	Flawed Emerald	gfg	misc	gem	flawed_emerald.sprite.00.png	1	1
+Emerald	Emerald	gsg	misc	gem	emerald.sprite.00.png	1	1
+Flawless Emerald	Flawless Emerald	glg	misc	gem	flawless_emerald.sprite.00.png	1	1
+Perfect Emerald	Perfect Emerald	gpg	misc	gem	perfect_emerald.sprite.00.png	1	1
+Chipped Ruby	Chipped Ruby	gcr	misc	gem	chipped_ruby.sprite.00.png	1	1
+Flawed Ruby	Flawed Ruby	gfr	misc	gem	flawed_ruby.sprite.00.png	1	1
+Ruby	Ruby	gsr	misc	gem	ruby.sprite.00.png	1	1
+Flawless Ruby	Flawless Ruby	glr	misc	gem	flawless_ruby.sprite.00.png	1	1
+Perfect Ruby	Perfect Ruby	gpr	misc	gem	perfect_ruby.sprite.00.png	1	1
+Chipped Diamond	Chipped Diamond	gcw	misc	gem	chipped_diamond.sprite.00.png	1	1
+Flawed Diamond	Flawed Diamond	gfw	misc	gem	flawed_diamond.sprite.00.png	1	1
+Diamond	Diamond	gsw	misc	gem	diamond.sprite.00.png	1	1
+Flawless Diamond	Flawless Diamond	glw	misc	gem	flawless_diamond.sprite.00.png	1	1
+Perfect Diamond	Perfect Diamond	gpw	misc	gem	perfect_diamond.sprite.00.png	1	1
+Lesser Healing Potion	Lesser Healing Potion	hp1	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Light Healing Potion	Light Healing Potion	hp2	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Healing Potion	Healing Potion	hp3	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Strong Healing Potion	Strong Healing Potion	hp4	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Greater Healing Potion	Greater Healing Potion	hp5	misc	potion	greater_healing_potion.sprite.00.png	1	1
+Lesser Mana Potion	Lesser Mana Potion	mp1	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Light Mana Potion	Light Mana Potion	mp2	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Mana Potion	Mana Potion	mp3	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Strong Mana Potion	Strong Mana Potion	mp4	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Greater Mana Potion	Greater Mana Potion	mp5	misc	potion	greater_mana_potion.sprite.00.png	1	1
+Chipped Skull	Chipped Skull	skc	misc	gem	chipped_skull.sprite.00.png	1	1
+Flawed Skull	Flawed Skull	skf	misc	gem	flawed_skull.sprite.00.png	1	1
+Skull	Skull	sku	misc	gem	skull.sprite.00.png	1	1
+Flawless Skull	Flawless Skull	skl	misc	gem	flawless_skull.sprite.00.png	1	1
+Perfect Skull	Perfect Skull	skz	misc	gem	perfect_skull.sprite.00.png	1	1
+herb	herb	hrb	misc	herb	herb.sprite.00.png	1	1
+Charm Small	Charm Small	cm1	misc	charm	charm_small.sprite.00.png	1	1
+Charm Medium	Charm Medium	cm2	misc	charm	charm_medium.sprite.00.png	1	2
+Charm Large	Charm Large	cm3	misc	charm	charm_large.sprite.00.png	1	3
+Small Red Potion	Small Red Potion	rps	misc	potion	healing_potion.sprite.00.png	1	1
+Large Red Potion	Large Red Potion	rpl	misc	potion	full_healing_potion.sprite.00.png	1	1
+Small Blue Potion	Small Blue Potion	bps	misc	potion	mana_potion.sprite.00.png	1	1
+Large Blue Potion	Large Blue Potion	bpl	misc	potion	full_mana_potion.sprite.00.png	1	1
+El	El Rune	r01	misc	rune	el_rune.sprite.00.png	1	1
+Eld	Eld Rune	r02	misc	rune	eld_rune.sprite.00.png	1	1
+Tir	Tir Rune	r03	misc	rune	tir_rune.sprite.00.png	1	1
+Nef	Nef Rune	r04	misc	rune	nef_rune.sprite.00.png	1	1
+Eth	Eth Rune	r05	misc	rune	eth_rune.sprite.00.png	1	1
+Ith	Ith Rune	r06	misc	rune	ith_rune.sprite.00.png	1	1
+Tal	Tal Rune	r07	misc	rune	tal_rune.sprite.00.png	1	1
+Ral	Ral Rune	r08	misc	rune	ral_rune.sprite.00.png	1	1
+Ort	Ort Rune	r09	misc	rune	ort_rune.sprite.00.png	1	1
+Thul	Thul Rune	r10	misc	rune	thul_rune.sprite.00.png	1	1
+Amn	Amn Rune	r11	misc	rune	amn_rune.sprite.00.png	1	1
+Sol	Sol Rune	r12	misc	rune	sol_rune.sprite.00.png	1	1
+Shael	Shael Rune	r13	misc	rune	shael_rune.sprite.00.png	1	1
+Dol	Dol Rune	r14	misc	rune	dol_rune.sprite.00.png	1	1
+Hel	Hel Rune	r15	misc	rune	hel_rune.sprite.00.png	1	1
+Io	Io Rune	r16	misc	rune	io_rune.sprite.00.png	1	1
+Lum	Lum Rune	r17	misc	rune	lum_rune.sprite.00.png	1	1
+Ko	Ko Rune	r18	misc	rune	ko_rune.sprite.00.png	1	1
+Fal	Fal Rune	r19	misc	rune	fal_rune.sprite.00.png	1	1
+Lem	Lem Rune	r20	misc	rune	lem_rune.sprite.00.png	1	1
+Pul	Pul Rune	r21	misc	rune	pul_rune.sprite.00.png	1	1
+Um	Um Rune	r22	misc	rune	um_rune.sprite.00.png	1	1
+Mal	Mal Rune	r23	misc	rune	mal_rune.sprite.00.png	1	1
+Ist	Ist Rune	r24	misc	rune	ist_rune.sprite.00.png	1	1
+Gul	Gul Rune	r25	misc	rune	gul_rune.sprite.00.png	1	1
+Vex	Vex Rune	r26	misc	rune	vex_rune.sprite.00.png	1	1
+Ohm	Ohm Rune	r27	misc	rune	ohm_rune.sprite.00.png	1	1
+Lo	Lo Rune	r28	misc	rune	lo_rune.sprite.00.png	1	1
+Sur	Sur Rune	r29	misc	rune	sur_rune.sprite.00.png	1	1
+Ber	Ber Rune	r30	misc	rune	ber_rune.sprite.00.png	1	1
+Jah	Jah Rune	r31	misc	rune	jah_rune.sprite.00.png	1	1
+Cham	Cham Rune	r32	misc	rune	cham_rune.sprite.00.png	1	1
+Zod	Zod Rune	r33	misc	rune	zod_rune.sprite.00.png	1	1
+Jewel	Jewel	jew	misc	gem	perfect_diamond6.sprite.00.png	1	1
+ice	Maguffin	ice	misc	pd2		1	1
+Scroll	Scroll	0sc	misc	quest	bark_scroll.sprite.00.png	2	2
+Scroll of Malah - Boost Resistances	Scroll of Malah - Boost Resistances	tr2	misc	quest	bark_scroll.sprite.00.png	2	2
+Pandemonium Key 1	Pandemonium Key 1	pk1	misc	key	mephisto_key.sprite.00.png	1	2
+Pandemonium Key 2	Pandemonium Key 2	pk2	misc	key	mephisto_key.sprite.00.png	1	2
+Pandemonium Key 3	Pandemonium Key 3	pk3	misc	key	mephisto_key.sprite.00.png	1	2
+Diablo's Horn	Diablo's Horn	dhn	misc	body_part	horn.sprite.00.png	1	1
+Baal's Eye	Baal's Eye	bey	misc	body_part	eye.sprite.00.png	1	1
+Mephisto's Brain	Mephisto's Brain	mbr	misc	body_part	brain.sprite.00.png	1	1
+Token of Absolution	Token of Absolution	toa	misc	quest	token_of_absolution.sprite.00.png	1	1
+Twisted Essence of Suffering	Twisted Essence of Suffering	tes	misc	quest	twisted_essence_of_suffering.sprite.00.png	1	1
+Charged Essense of Hatred	Charged Essense of Hatred	ceh	misc	quest	charged_essense_of_hatred.sprite.00.png	1	1
+Burning Essence of Terror	Burning Essence of Terror	bet	misc	quest	burning_essence_of_terror.sprite.00.png	1	1
+Festering Essence of Destruction	Festering Essence of Destruction	fed	misc	quest	festering_essence_of_destruction.sprite.00.png	1	1
+Standard	Standard	std	misc	body_part	flag.sprite.00.png	1	1
+Worldstone Shard	Worldstone Shard	wss	misc	pd2		1	1
+Imbue Magic	Imbue Magic	imma	misc	pd2		1	1
+Imbue Random	Imbue Random	imrn	misc	pd2		1	1
+Imbue Rare	Imbue Rare	imra	misc	pd2		1	1
+Reroll Rare	Reroll Rare	rera	misc	pd2		1	1
+Scour	Scour	scou	misc	pd2		1	1
+Upgrade Mag	Upgrade Mag	upma	misc	pd2		1	1
+Upgrade Map	Upgrade Map	upmp	misc	pd2		1	1
+Fortify Map	Fortify Map	fort	misc	pd2		1	1
+Dungeon Scarab	Dungeon Scarab	scrb	misc	pd2		1	1
+Puzzlebox	Puzzlebox	lbox	misc	pd2		1	1
+Flawless Amethyst Stack	Flawless Amethyst Stack	gzvs	misc	gem	flawless_amethyst.sprite.00.png	1	1
+Perfect Amethyst Stack	Perfect Amethyst Stack	gpvs	misc	gem	perfect_amethyst.sprite.00.png	1	1
+Flawless Topaz Stack	Flawless Topaz Stack	glys	misc	gem	flawless_topaz.sprite.00.png	1	1
+Perfect Topaz Stack	Perfect Topaz Stack	gpys	misc	gem	perfect_topaz.sprite.00.png	1	1
+Flawless Saphire Stack	Flawless Saphire Stack	glbs	misc	gem	flawless_saphire.sprite.00.png	1	1
+Perfect Saphire Stack	Perfect Saphire Stack	gpbs	misc	gem	perfect_saphire.sprite.00.png	1	1
+Flawless Emerald Stack	Flawless Emerald Stack	glgs	misc	gem	flawless_emerald.sprite.00.png	1	1
+Perfect Emerald Stack	Perfect Emerald Stack	gpgs	misc	gem	perfect_emerald.sprite.00.png	1	1
+Flawless Ruby Stack	Flawless Ruby Stack	glrs	misc	gem	flawless_ruby.sprite.00.png	1	1
+Perfect Ruby Stack	Perfect Ruby Stack	gprs	misc	gem	perfect_ruby.sprite.00.png	1	1
+Flawless Diamond Stack	Flawless Diamond Stack	glws	misc	gem	flawless_diamond.sprite.00.png	1	1
+Perfect Diamond Stack	Perfect Diamond Stack	gpws	misc	gem	perfect_diamond.sprite.00.png	1	1
+Flawless Skull Stack	Flawless Skull Stack	skls	misc	gem	flawless_skull.sprite.00.png	1	1
+Perfect Skull Stack	Perfect Skull Stack	skzs	misc	gem	perfect_skull.sprite.00.png	1	1
+El	El Rune Stack	r01s	misc	rune	el_rune.sprite.00.png	1	1
+Eld	Eld Rune Stack	r02s	misc	rune	eld_rune.sprite.00.png	1	1
+Tir	Tir Rune Stack	r03s	misc	rune	tir_rune.sprite.00.png	1	1
+Nef	Nef Rune Stack	r04s	misc	rune	nef_rune.sprite.00.png	1	1
+Eth	Eth Rune Stack	r05s	misc	rune	eth_rune.sprite.00.png	1	1
+Ith	Ith Rune Stack	r06s	misc	rune	ith_rune.sprite.00.png	1	1
+Tal	Tal Rune Stack	r07s	misc	rune	tal_rune.sprite.00.png	1	1
+Ral	Ral Rune Stack	r08s	misc	rune	ral_rune.sprite.00.png	1	1
+Ort	Ort Rune Stack	r09s	misc	rune	ort_rune.sprite.00.png	1	1
+Thul	Thul Rune Stack	r10s	misc	rune	thul_rune.sprite.00.png	1	1
+Amn	Amn Rune Stack	r11s	misc	rune	amn_rune.sprite.00.png	1	1
+Sol	Sol Rune Stack	r12s	misc	rune	sol_rune.sprite.00.png	1	1
+Shael	Shael Rune Stack	r13s	misc	rune	shael_rune.sprite.00.png	1	1
+Dol	Dol Rune Stack	r14s	misc	rune	dol_rune.sprite.00.png	1	1
+Hel	Hel Rune Stack	r15s	misc	rune	hel_rune.sprite.00.png	1	1
+Io	Io Rune Stack	r16s	misc	rune	io_rune.sprite.00.png	1	1
+Lum	Lum Rune Stack	r17s	misc	rune	lum_rune.sprite.00.png	1	1
+Ko	Ko Rune Stack	r18s	misc	rune	ko_rune.sprite.00.png	1	1
+Fal	Fal Rune Stack	r19s	misc	rune	fal_rune.sprite.00.png	1	1
+Lem	Lem Rune Stack	r20s	misc	rune	lem_rune.sprite.00.png	1	1
+Pul	Pul Rune Stack	r21s	misc	rune	pul_rune.sprite.00.png	1	1
+Um	Um Rune Stack	r22s	misc	rune	um_rune.sprite.00.png	1	1
+Mal	Mal Rune Stack	r23s	misc	rune	mal_rune.sprite.00.png	1	1
+Ist	Ist Rune Stack	r24s	misc	rune	ist_rune.sprite.00.png	1	1
+Gul	Gul Rune Stack	r25s	misc	rune	gul_rune.sprite.00.png	1	1
+Vex	Vex Rune Stack	r26s	misc	rune	vex_rune.sprite.00.png	1	1
+Ohm	Ohm Rune Stack	r27s	misc	rune	ohm_rune.sprite.00.png	1	1
+Lo	Lo Rune Stack	r28s	misc	rune	lo_rune.sprite.00.png	1	1
+Sur	Sur Rune Stack	r29s	misc	rune	sur_rune.sprite.00.png	1	1
+Ber	Ber Rune Stack	r30s	misc	rune	ber_rune.sprite.00.png	1	1
+Jah	Jah Rune Stack	r31s	misc	rune	jah_rune.sprite.00.png	1	1
+Cham	Cham Rune Stack	r32s	misc	rune	cham_rune.sprite.00.png	1	1
+Zod	Zod Rune Stack	r33s	misc	rune	zod_rune.sprite.00.png	1	1
+Uber Trist Map	Uber Trist Map	ubtm	misc	pd2		1	1
+Uber Map	Uber Map	dcma	misc	pd2		1	1
+Uber Blood	Uber Blood	dcbl	misc	pd2		1	1
+Uber Horn	Uber Horn	dcho	misc	pd2		1	1
+Uber Soul	Uber Soul	dcso	misc	pd2		1	1
+Ruins of VizJun	Kurast Map	t11	misc	map	map.sprite.00.png	1	1
+Horazon's Memory	Arcane Map	t12	misc	map	map.sprite.00.png	1	1
+Bastion Keep	Fortress Map	t13	misc	map	map.sprite.00.png	1	1
+Phlegeton	Lava Map	t21	misc	map	map.sprite.00.png	1	1
+Torajan Jungle	Jungle Map	t22	misc	map	map.sprite.00.png	1	1
+Arreat Battlefield	Siege Map	t23	misc	map	map.sprite.00.png	1	1
+Tomb of Zoltun Kulle	Tomb Map	t24	misc	map	map.sprite.00.png	1	1
+Sewers of Harrogath	Sewer Map	t25	misc	map	map.sprite.00.png	1	1
+River of Blood	River Of Blood Map	t31	misc	map	map.sprite.00.png	1	1
+Throne of Insanity	Throne Map	t32	misc	map	map.sprite.00.png	1	1
+Lost Temple	Spider Map	t33	misc	map	map.sprite.00.png	1	1
+Ancestral Trial	Ice Map	t34	misc	map	map.sprite.00.png	1	1
+Blood Moon	Graveyard Map	t35	misc	map	map.sprite.00.png	1	1
+Fall of Caldeum	Caldeum Map	t36	misc	map	map.sprite.00.png	1	1
+Pandemonium Citadel	Pandemonium Map	t37	misc	map	map.sprite.00.png	1	1
+Cathedral of Light	Monastery Map	t41	misc	map	map.sprite.00.png	1	1
+unused	Mesa Map	t99	misc	map	map.sprite.00.png	1	1
+Kehjistan Marketplace	Desert Map	t39	misc	map	map.sprite.00.png	1	1
+Moor Arena	Pvp Map	t61	misc	map	map.sprite.00.png	1	1
+Desert Arena	Pvp Map 2	t62	misc	map	map.sprite.00.png	1	1
+Voidstone	Rathma Map	rtma	misc	pd2		1	1
+Corrupted Worldstone Shard	Corrupted Worldstone Shard	cwss	misc	pd2		1	1
+Canyon of Secheron	Frozen Forest Map	t38	misc	map	map.sprite.00.png	1	1
+amulet with socket	Amulet [S]	ram	misc	amulet	amulet.sprite.00.png	1	1
+TrangOul Jawbone	Rathma Ingredient	rtmo	misc	pd2		1	1
+Horadric Navigator	TP Book Unlimited	rtp	misc	book	town_portal_book.sprite.00.png	1	2
+Horadric Almanac	ID Book Unlimited	rid	misc	book	identify_book.sprite.00.png	1	2
+Fragments	Fragments	jewf	misc	gem	perfect_diamond1.sprite.00.png	1	1
+Plains of Torment	Torment Map	t42	misc	map	map.sprite.00.png	1	1
+Splinter	Splinter	rtmv	misc	pd2		1	1
+Bone Fragment	Bone Fragment	rtmf	misc	pd2		1	1
+Sanatorium	Library Map	t14	misc	map	map.sprite.00.png	1	1
+Uber Ancients Map	Uber Ancients Map	uba	misc	pd2		1	1
+Lilith Mirror	Lilith Mirror	llmr	misc	pd2		1	2
+Vial of Lightsong	Vial of Lightsong	lsvl	misc	pd2		1	2
+Uber Ancients Key A	Uber Ancients Key A	ubaa	misc	pd2		1	1
+Uber Ancients Key B	Uber Ancients Key B	ubab	misc	pd2		1	1
+Uber Ancients Key C	Uber Ancients Key C	ubac	misc	pd2		1	1
+Shadows of Westmarch	Westmarch Map	t26	misc	map	map.sprite.00.png	1	1
+Royal Crypts	Crypts Map	t15	misc	map	map.sprite.00.png	1	1
+Sanctuary of Sin	Sanctuary of Sin Map	t43	misc	map	map.sprite.00.png	1	1
+Puzzlepiece	Puzzlepiece	lpp	misc	pd2		1	1
+Skeleton Key Unlimited	Skeleton Key Unlimited	rkey	misc	key	skeleton_key.sprite.00.png	1	1
+Ruined Cistern	Ruined Cistern Map	t16	misc	map	map.sprite.00.png	1	1
+Ashen Plains	Ashes Map	t3a	misc	map	map.sprite.00.png	1	1
+Larzuks Malus	Larzuks Malus	lmal	misc	pd2		1	2
+PVP Mana Potion	PVP Mana Potion	pvpp	misc	pd2		1	1
+Force Mapevent Shard	Force Mapevent Shard	iwss	misc	pd2		1	1
+Zhar Map	Zhar Map	t51	misc	map	map.sprite.00.png	1	1
+Hellcaves Map	Hellcaves Map	t52	misc	map	map.sprite.00.png	1	1
+Torch Fragment	Torch Fragment	cm2f	misc	pd2		1	1
+Fallen Gardens Map	Fallen Gardens Map	t53	misc	map	map.sprite.00.png	1	1
+Imbue Magic Ready	Imbue Magic Ready	irma	misc	pd2		1	1
+Imbue Random Ready	Imbue Random Ready	irrn	misc	pd2		1	1
+Imbue Rare Ready	Imbue Rare Ready	irra	misc	pd2		1	1
+Reroll Rare Ready	Reroll Rare Ready	rrra	misc	pd2		1	1
+Upgrade Mag Ready	Upgrade Mag Ready	urma	misc	pd2		1	1

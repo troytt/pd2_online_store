@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #333;
+}
+
+.skills {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.skill {
+    text-align: center;
+}
+
+.skill-name {
+    font-weight: bold;
+    color: #555;
+}
+
+.skill-level {
+    font-size: 24px;
+    color: #333;
+}
+
+.stats {
+    display:flex;
+justify-content: space-between;
+margin-top: 20px;
+}
+
+.stat {
+    margin-bottom: 10px;
+}
+
+.stat-label {
+    font-weight: bold;
+    color: #555;
+}
+
+.stat-level {
+    color: #333;
+}
+
+.tabs {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #eee;
+    margin-right: 10px;
+}
+
+.active {
+    background-color: #ddd;
+}
+
+.stash {
+    display: grid;
+    grid-template-columns: repeat(10, 40px); /* Change 50px to the width of each grid cell */
+    grid-template-rows: repeat(15, 40px); /* Change 50px to the height of each grid cell */
+    gap: 4px; /* Adjust the gap between items as needed */
+}
+
+.inactive_stash {
+    display: none;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    position: relative;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-size: contain; /* Scale the image to fit the container */
+    background-position: center; /* Center the image within the container */
+}
+
+.quantity-number {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #3498db; /* Light blue background color for the number */
+    color: #fff; /* Text color for the number */
+    padding: 2px 2px; /* Add padding to the number */
+    font-size: 12px; /* Font size of the number */
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1;
+    text-align: center; /* Center-align the text inside the tooltip */
+}
+
+.tooltip p {
+    margin: 0; /* Remove default paragraph margins */
+}
+
+.rarity-text {
+    font-weight: bold;
+}
+
+.blue-text {
+    color: #3498db;
+}
+
+.unique {
+    background-color: #ff8c00; /* Dark Golden (Unique Item) */
+    color: #333;
+}
+
+.set {
+    background-color: #008000; /* Green (Set Item) */
+    color: #fff;
+}
+
+.rare {
+    background-color: #ffff00; /* Yellow (Rare Item) */
+    color: #333;
+}
+
+.magic {
+    background-color: #0000ff; /* Blue (Magic Item) */
+    color: #fff;
+}
+
+.crafted {
+    background-color: #ff0000; /* Red (Crafted Item) */
+    color: #333;
+}

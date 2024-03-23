@@ -1,0 +1,7101 @@
+{
+    "am2": {
+        "name": "Reflex Bow",
+        "d2_type": "abow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "reflex_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am7": {
+        "name": "Ceremonial Bow",
+        "d2_type": "abow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "reflex_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "amc": {
+        "name": "Grand Matron Bow",
+        "d2_type": "abow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "reflex_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am1": {
+        "name": "Stag Bow",
+        "d2_type": "abow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "stag_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am6": {
+        "name": "Ashwood Bow",
+        "d2_type": "abow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "stag_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "amb": {
+        "name": "Matriarchal Bow",
+        "d2_type": "abow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "stag_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am5": {
+        "name": "Maiden Javelin",
+        "d2_type": "ajav",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "maiden_javelin.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ama": {
+        "name": "Ceremonial Javelin",
+        "d2_type": "ajav",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "maiden_javelin.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "amf": {
+        "name": "MatriarchalJavelin",
+        "d2_type": "ajav",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "maiden_javelin.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "pa4": {
+        "name": "Aerin Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "aerin_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pa9": {
+        "name": "Guilded Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "aerin_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pae": {
+        "name": "Zakarum Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "aerin_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pa5": {
+        "name": "Crown Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "crown_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "paa": {
+        "name": "Royal Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "crown_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "paf": {
+        "name": "Vortex Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "crown_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pa3": {
+        "name": "Heraldic Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "heraldic_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pa8": {
+        "name": "Protector Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "heraldic_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pad": {
+        "name": "Ancient Shield",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "heraldic_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pa2": {
+        "name": "Rondache",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "rondache.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pa7": {
+        "name": "Akaran Rondache",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "rondache.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pac": {
+        "name": "Sacred Rondache",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "rondache.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pa1": {
+        "name": "Targe",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "targe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pa6": {
+        "name": "Akaran Targe",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "targe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pab": {
+        "name": "Sacred Targe",
+        "d2_type": "ashd",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "targe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "am4": {
+        "name": "Maiden Pike",
+        "d2_type": "aspe",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "maiden_pike.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am9": {
+        "name": "Ceremonial Pike",
+        "d2_type": "aspe",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "maiden_pike.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "ame": {
+        "name": "Matriarchal Pike",
+        "d2_type": "aspe",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "maiden_pike.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am3": {
+        "name": "Maiden Spear",
+        "d2_type": "aspe",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "maiden_spear.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "am8": {
+        "name": "Ceremonial Spear",
+        "d2_type": "aspe",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "maiden_spear.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "amd": {
+        "name": "Matriarchal Spear",
+        "d2_type": "aspe",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "maiden_spear.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "axe": {
+        "name": "Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9ax": {
+        "name": "Cleaver",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7ax": {
+        "name": "Small Crescent",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9bt": {
+        "name": "Tabar",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "battle_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7bt": {
+        "name": "Decapitator",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "battle_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "btx": {
+        "name": "Battle Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "battle_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "bax": {
+        "name": "Broad Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "broad_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9ba": {
+        "name": "Bearded Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "broad_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7ba": {
+        "name": "Silver Edged Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "broad_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "2ax": {
+        "name": "Double Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "double_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "92a": {
+        "name": "Twin Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "double_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "72a": {
+        "name": "Ettin Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "double_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7gi": {
+        "name": "Glorious Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "giant_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "gix": {
+        "name": "Giant Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "giant_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9ga": {
+        "name": "Gothic Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "great_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7ga": {
+        "name": "Champion Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "great_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9gi": {
+        "name": "Ancient Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "giant_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "gax": {
+        "name": "Great Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "great_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "hax": {
+        "name": "Hand Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "hand_axe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9ha": {
+        "name": "Hatchet",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "hand_axe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ha": {
+        "name": "Tomahawk",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "hand_axe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "lax": {
+        "name": "Large Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "large_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9la": {
+        "name": "Military Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "large_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7la": {
+        "name": "Feral Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "large_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "mpi": {
+        "name": "Military Pick",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "military_pick.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9mp": {
+        "name": "Crowbill",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "military_pick.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7mp": {
+        "name": "War Spike",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "military_pick.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "wax": {
+        "name": "War Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "war_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9wa": {
+        "name": "Naga",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "war_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7wa": {
+        "name": "Berserker Axe",
+        "d2_type": "axe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "war_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "rbe": {
+        "name": "Troll Belt [S]",
+        "d2_type": "bels",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "heavy_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "lbl": {
+        "name": "Sash(L)",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "sash_l.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "vbl": {
+        "name": "Light Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "light_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "mbl": {
+        "name": "Belt(M)",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "belt_m.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "tbl": {
+        "name": "Heavy Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "heavy_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "hbl": {
+        "name": "Girdle(H)",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "girdle_h.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "zlb": {
+        "name": "Demonhide Sash",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "sash_l.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "zvb": {
+        "name": "Sharkskin Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "light_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "zmb": {
+        "name": "Mesh Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "belt_m.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "ztb": {
+        "name": "Battle Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "heavy_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "zhb": {
+        "name": "War Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "girdle_h.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "ulc": {
+        "name": "Spiderweb Sash",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "sash_l.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "uvc": {
+        "name": "Vampirefang Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "light_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "umc": {
+        "name": "Mithril Coil",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "belt_m.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "utc": {
+        "name": "Troll Belt",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "heavy_belt.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "uhc": {
+        "name": "Colossus Girdle",
+        "d2_type": "belt",
+        "type": "armor",
+        "sub_type": "belt",
+        "img_name": "girdle_h.sprite.00.png",
+        "size_x": 2,
+        "size_y": 1
+    },
+    "lbt": {
+        "name": "Leather Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "leather_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "vbt": {
+        "name": "Heavy Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "heavy_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "mbt": {
+        "name": "Chain Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "chain_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "tbt": {
+        "name": "Light Plate Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "light_plate_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "hbt": {
+        "name": "Plate Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "plate_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xlb": {
+        "name": "Demonhide Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "leather_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xvb": {
+        "name": "Sharkskin Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "heavy_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xmb": {
+        "name": "Mesh Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "chain_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xtb": {
+        "name": "Battle Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "light_plate_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xhb": {
+        "name": "War Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "plate_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ulb": {
+        "name": "Wyrmhide Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "leather_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uvb": {
+        "name": "Scarabshell Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "heavy_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "umb": {
+        "name": "Boneweave Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "chain_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "utb": {
+        "name": "Mirrored Boots",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "light_plate_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uhb": {
+        "name": "Myrmidon Greaves",
+        "d2_type": "boot",
+        "type": "armor",
+        "sub_type": "boot",
+        "img_name": "plate_boots.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "8l8": {
+        "name": "Long Siege Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_battle_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "8lw": {
+        "name": "Gothic Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_war_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "6l7": {
+        "name": "Crusader Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_battle_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "6lw": {
+        "name": "Hydra Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_war_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "8lb": {
+        "name": "Cedar Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "composite_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "8cb": {
+        "name": "Double Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "composite_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6lb": {
+        "name": "Shadow Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "6cb": {
+        "name": "Great Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "composite_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "8s8": {
+        "name": "Short Siege Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_war_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "8sw": {
+        "name": "Rune Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_battle_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6s7": {
+        "name": "Diamond Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_war_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6sw": {
+        "name": "Ward Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_battle_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "sbw": {
+        "name": "Short Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "hbw": {
+        "name": "Hunter's Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "hunters_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "lbw": {
+        "name": "Long Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "cbw": {
+        "name": "Composite Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "composite_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "sbb": {
+        "name": "Short Battle Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_battle_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "lbb": {
+        "name": "Long Battle Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_battle_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "swb": {
+        "name": "Short War Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_war_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "lwb": {
+        "name": "Long War Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "long_war_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "8sb": {
+        "name": "Edge Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "8hb": {
+        "name": "Razor Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "hunters_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6sb": {
+        "name": "Spider Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "short_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6hb": {
+        "name": "Blade Bow",
+        "d2_type": "bow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "hunters_bow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ci0": {
+        "name": "Circlet",
+        "d2_type": "circ",
+        "type": "armor",
+        "sub_type": "circlet",
+        "img_name": "circlet.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ci1": {
+        "name": "Coronet",
+        "d2_type": "circ",
+        "type": "armor",
+        "sub_type": "circlet",
+        "img_name": "coronet.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ci2": {
+        "name": "Tiara",
+        "d2_type": "circ",
+        "type": "armor",
+        "sub_type": "circlet",
+        "img_name": "tiara.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ci3": {
+        "name": "Diadem",
+        "d2_type": "circ",
+        "type": "armor",
+        "sub_type": "circlet",
+        "img_name": "diadem.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "clb": {
+        "name": "Club",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "club.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "spc": {
+        "name": "Spiked Club",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "spiked_club.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "leg": {
+        "name": "Wirt's Leg",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "wirts_leg.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9cl": {
+        "name": "Cudgel",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "club.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9sp": {
+        "name": "Barbed Club",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "spiked_club.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7cl": {
+        "name": "Truncheon",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "club.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7sp": {
+        "name": "Tyrant Club",
+        "d2_type": "club",
+        "type": "weapon",
+        "sub_type": "club",
+        "img_name": "spiked_club.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "lgl": {
+        "name": "Gloves(L)",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "gloves_l.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "vgl": {
+        "name": "Heavy Gloves",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "heavy_gloves.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "mgl": {
+        "name": "Bracers(M)",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "bracers_m.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "tgl": {
+        "name": "Light Gauntlets",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "light_gauntlets.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "hgl": {
+        "name": "Gaunlets(H)",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "gaunlets_h.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xlg": {
+        "name": "Demonhide Gloves",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "gloves_l.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xvg": {
+        "name": "Sharkskin Gloves",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "heavy_gloves.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xmg": {
+        "name": "Heavy Bracers",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "bracers_m.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xtg": {
+        "name": "Battle Gauntlets",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "light_gauntlets.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xhg": {
+        "name": "War Gauntlets",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "gaunlets_h.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ulg": {
+        "name": "Bramble Mitts",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "gloves_l.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uvg": {
+        "name": "Vampirebone Gloves",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "heavy_gloves.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "umg": {
+        "name": "Vambraces",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "bracers_m.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "utg": {
+        "name": "Crusader Gauntlets",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "light_gauntlets.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uhg": {
+        "name": "Ogre Gauntlets",
+        "d2_type": "glov",
+        "type": "armor",
+        "sub_type": "glove",
+        "img_name": "gaunlets_h.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "axf": {
+        "name": "Hatchet Hands",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "hatchet_hands.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ces": {
+        "name": "Cestus",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "hatchet_hands.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9xf": {
+        "name": "Fascia",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "hatchet_hands.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "clw": {
+        "name": "Claws",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "claws.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "btl": {
+        "name": "Blade Talons",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "claws.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ktr": {
+        "name": "Katar",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "wrb": {
+        "name": "Wrist Blade",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9ar": {
+        "name": "Quhab",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9wb": {
+        "name": "Wrist Spike",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "skr": {
+        "name": "Scissors Katar",
+        "d2_type": "h2h",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "scissors_katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9cs": {
+        "name": "Hand Scythe",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "hatchet_hands.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7xf": {
+        "name": "War Fist",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "hatchet_hands.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7cs": {
+        "name": "Battle Cestus",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "hatchet_hands.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9lw": {
+        "name": "Greater Claws",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "claws.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9tw": {
+        "name": "Greater Talons",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "claws.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7lw": {
+        "name": "Feral Claws",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "claws.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7tw": {
+        "name": "Runic Talons",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "claws.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ar": {
+        "name": "Suwayyah",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7wb": {
+        "name": "Wrist Sword",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9qr": {
+        "name": "Scissors Quhab",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "scissors_katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7qr": {
+        "name": "Scissors Suwayyah",
+        "d2_type": "h2h2",
+        "type": "weapon",
+        "sub_type": "h2h",
+        "img_name": "scissors_katar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "whm": {
+        "name": "War Hammer",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "war_hammer.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "mau": {
+        "name": "Maul",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "maul.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "gma": {
+        "name": "Great Maul",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "great_maul.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9m9": {
+        "name": "War Club",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "maul.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9gm": {
+        "name": "Martel de Fer",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "great_maul.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7m7": {
+        "name": "Ogre Maul",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "maul.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7gm": {
+        "name": "Thunder Maul",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "great_maul.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "hdm": {
+        "name": "Horadric Malus",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "horadric_malus.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "hfh": {
+        "name": "Hellforge Hammer",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "hellforge_hammer.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9wh": {
+        "name": "Battle Hammer",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "war_hammer.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7wh": {
+        "name": "Legendary Mallet",
+        "d2_type": "hamm",
+        "type": "weapon",
+        "sub_type": "hammer",
+        "img_name": "war_hammer.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ne1": {
+        "name": "Preserved Head",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "preserved_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne2": {
+        "name": "Zombie Head",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "zombie_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne3": {
+        "name": "Unraveller Head",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "unraveller_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne4": {
+        "name": "Gargoyle Head",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "gargoyle_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne5": {
+        "name": "Demon Head",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "demon_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne6": {
+        "name": "Mummified Trophy",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "preserved_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne7": {
+        "name": "Fetish Trophy",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "zombie_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne8": {
+        "name": "Sexton Trophy",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "unraveller_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ne9": {
+        "name": "Cantor Trophy",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "gargoyle_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "nea": {
+        "name": "Heirophant Trophy",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "demon_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "neb": {
+        "name": "Minion Skull",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "preserved_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "neg": {
+        "name": "Hellspawn Skull",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "zombie_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ned": {
+        "name": "Overseer Skull",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "unraveller_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "nee": {
+        "name": "Succubae Skull",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "gargoyle_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "nef": {
+        "name": "Bloodlord Skull",
+        "d2_type": "head",
+        "type": "armor",
+        "sub_type": "voodoo_head",
+        "img_name": "demon_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "cap": {
+        "name": "Cap/hat",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "cap_hat.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "skp": {
+        "name": "Skull Cap",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "skull_cap.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "hlm": {
+        "name": "Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "fhl": {
+        "name": "Full Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "full_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ghm": {
+        "name": "Great Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "great_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "crn": {
+        "name": "Crown",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "crown.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "msk": {
+        "name": "Mask",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bhm": {
+        "name": "Bone Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "bone_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xap": {
+        "name": "War Hat",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "cap_hat.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xkp": {
+        "name": "Sallet",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "skull_cap.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xlm": {
+        "name": "Casque",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xhl": {
+        "name": "Basinet",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "full_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xhm": {
+        "name": "Winged Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "great_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xrn": {
+        "name": "Grand Crown",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "crown.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xsk": {
+        "name": "Death Mask",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xh9": {
+        "name": "Grim Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "bone_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uap": {
+        "name": "Shako",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "cap_hat.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ukp": {
+        "name": "Hydraskull",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "skull_cap.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ulm": {
+        "name": "Armet",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uhl": {
+        "name": "Giant Conch",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "full_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uhm": {
+        "name": "Spired Helm",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "great_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "urn": {
+        "name": "Corona",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "crown.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "usk": {
+        "name": "Demonhead",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uh9": {
+        "name": "Bone Visage",
+        "d2_type": "helm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "bone_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "9gl": {
+        "name": "Spiculum",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "glaive.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "7gl": {
+        "name": "Ghost Glaive",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "glaive.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "jav": {
+        "name": "Javelin",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "javelin.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "pil": {
+        "name": "Pilum",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "pilum.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ssp": {
+        "name": "Short Spear",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "short_spear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "glv": {
+        "name": "Glaive",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "glaive.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "tsp": {
+        "name": "Throwing Spear",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "throwing_spear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "9ja": {
+        "name": "War Javelin",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "javelin.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9s9": {
+        "name": "Simbilan",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "short_spear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ja": {
+        "name": "Hyperion Javelin",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "javelin.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7s7": {
+        "name": "Balrog Spear",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "short_spear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9pi": {
+        "name": "Great Pilum",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "pilum.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9ts": {
+        "name": "Harpoon",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "throwing_spear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "7pi": {
+        "name": "Stygian Pilum",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "pilum.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ts": {
+        "name": "Winged Harpoon",
+        "d2_type": "jave",
+        "type": "weapon",
+        "sub_type": "javelin",
+        "img_name": "throwing_spear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "dgr": {
+        "name": "Dagger",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "dagger.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "dir": {
+        "name": "Dirk",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "dirk.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "kri": {
+        "name": "Kriss",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "kriss.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "bld": {
+        "name": "Blade",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "blade.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "d33": {
+        "name": "decoy dagger",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "decoy_dagger.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "g33": {
+        "name": "Gidbinn",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "gidbinn.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9dg": {
+        "name": "Poignard",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "dagger.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9bl": {
+        "name": "Stilleto",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "dirk.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7dg": {
+        "name": "Bone Knife",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "kriss.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7bl": {
+        "name": "Legend Spike",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "blade.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9di": {
+        "name": "Rondel",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "dagger.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9kr": {
+        "name": "Cinquedeas",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "dirk.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7di": {
+        "name": "Mithral Point",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "kriss.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7kr": {
+        "name": "Fanged Knife",
+        "d2_type": "knif",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "blade.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9fl": {
+        "name": "Knout",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "flail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "qf1": {
+        "name": "KhalimFlail",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "khalim_flail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "qf2": {
+        "name": "SuperKhalimFlail",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "super_khalim_flail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7fl": {
+        "name": "Scourge",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "flail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "mac": {
+        "name": "Mace",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "mace.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "mst": {
+        "name": "Morning Star",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "morning_star.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "fla": {
+        "name": "Flail",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "flail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9ma": {
+        "name": "Flanged Mace",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "mace.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9mt": {
+        "name": "Jagged Star",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "morning_star.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ma": {
+        "name": "Reinforced Mace",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "mace.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7mt": {
+        "name": "Devil Star",
+        "d2_type": "mace",
+        "type": "weapon",
+        "sub_type": "mace",
+        "img_name": "morning_star.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ob1": {
+        "name": "Eagle Orb",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "eagle_orb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob2": {
+        "name": "Sacred Globe",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "sacred_globe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob3": {
+        "name": "Smoked Sphere",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "smoked_sphere.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob4": {
+        "name": "Clasped Orb",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "clasped_orb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob5": {
+        "name": "Dragon Stone",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "dragon_stone.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ob6": {
+        "name": "Glowing Orb",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "eagle_orb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob7": {
+        "name": "Crystalline Globe",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "sacred_globe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob8": {
+        "name": "Cloudy Sphere",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "smoked_sphere.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ob9": {
+        "name": "Sparkling Ball",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "clasped_orb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "oba": {
+        "name": "Swirling Crystal",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "dragon_stone.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "obb": {
+        "name": "Heavenly Stone",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "eagle_orb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "obc": {
+        "name": "Eldritch Orb",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "sacred_globe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "obd": {
+        "name": "Demon Heart",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "smoked_sphere.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "obe": {
+        "name": "Vortex Orb",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "clasped_orb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "obf": {
+        "name": "Dimensional Shard",
+        "d2_type": "orb",
+        "type": "weapon",
+        "sub_type": "orb",
+        "img_name": "dragon_stone.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "dr1": {
+        "name": "Wolf Head",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "wolf_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr2": {
+        "name": "Hawk Helm",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "hawk_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr3": {
+        "name": "Antlers",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "antlers.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr4": {
+        "name": "Falcon Mask",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "falcon_mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr5": {
+        "name": "Spirit Mask",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "spirit_mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr6": {
+        "name": "Alpha Helm",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "wolf_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr7": {
+        "name": "Griffon Headress",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "hawk_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr8": {
+        "name": "Hunter's Guise",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "antlers.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dr9": {
+        "name": "Sacred Feathers",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "falcon_mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dra": {
+        "name": "Totemic Mask",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "spirit_mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "drb": {
+        "name": "Blood Spirt",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "wolf_head.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "drc": {
+        "name": "Sun Spirit",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "hawk_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "drd": {
+        "name": "Earth Spirit",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "antlers.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "dre": {
+        "name": "Sky Spirit",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "falcon_mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "drf": {
+        "name": "Dream Spirit",
+        "d2_type": "pelt",
+        "type": "armor",
+        "sub_type": "pelt",
+        "img_name": "spirit_mask.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba1": {
+        "name": "Jawbone Cap",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "jawbone_cap.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba2": {
+        "name": "Fanged Helm",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "fanged_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba3": {
+        "name": "Horned Helm",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "horned_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba4": {
+        "name": "Assault Helmet",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "assault_helmet.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba5": {
+        "name": "Avenger Guard",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "avenger_guard.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba6": {
+        "name": "Jawbone Visor",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "jawbone_cap.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba7": {
+        "name": "Lion Helm",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "fanged_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba8": {
+        "name": "Rage Mask",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "horned_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "ba9": {
+        "name": "Savage Helmet",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "assault_helmet.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "baa": {
+        "name": "Slayer Guard",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "avenger_guard.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bab": {
+        "name": "Carnage Helm",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "jawbone_cap.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bac": {
+        "name": "Fury Visor",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "fanged_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bad": {
+        "name": "Destroyer Helm",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "horned_helm.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bae": {
+        "name": "Conquerer Crown",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "assault_helmet.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "baf": {
+        "name": "Guardian Crown",
+        "d2_type": "phlm",
+        "type": "armor",
+        "sub_type": "helmet",
+        "img_name": "avenger_guard.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bar": {
+        "name": "Bardiche",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "bardiche.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "vou": {
+        "name": "Voulge",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "voulge.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pax": {
+        "name": "Poleaxe",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "poleaxe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "hal": {
+        "name": "Halberd",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "halberd.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9b7": {
+        "name": "Lochaber Axe",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "bardiche.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9h9": {
+        "name": "Bec-de-Corbin",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "halberd.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7o7": {
+        "name": "Ogre Axe",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "bardiche.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7h7": {
+        "name": "Great Poleaxe",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "halberd.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9vo": {
+        "name": "Bill",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "voulge.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9pa": {
+        "name": "Partizan",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "poleaxe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7vo": {
+        "name": "Colossus Voulge",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "voulge.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7pa": {
+        "name": "Cryptic Axe",
+        "d2_type": "pole",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "poleaxe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "scy": {
+        "name": "Scythe",
+        "d2_type": "sc9",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "scythe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "wsc": {
+        "name": "War Scythe",
+        "d2_type": "sc9",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "war_scythe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9s8": {
+        "name": "Battle Scythe",
+        "d2_type": "sc9",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "scythe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9wc": {
+        "name": "Grim Scythe",
+        "d2_type": "sc9",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "war_scythe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7s8": {
+        "name": "Thresher",
+        "d2_type": "sc9",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "scythe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7wc": {
+        "name": "Giant Thresher",
+        "d2_type": "sc9",
+        "type": "weapon",
+        "sub_type": "polearm",
+        "img_name": "war_scythe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "scp": {
+        "name": "Scepter",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "gsc": {
+        "name": "Grand Scepter",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "grand_scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "wsp": {
+        "name": "War Scepter",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "war_scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9sc": {
+        "name": "Rune Scepter",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9qs": {
+        "name": "Holy Water Sprinkler",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "grand_scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7sc": {
+        "name": "Mighty Scepter",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "war_scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7qs": {
+        "name": "Seraph Rod",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9ws": {
+        "name": "Divine Scepter",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "grand_scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ws": {
+        "name": "Caduceus",
+        "d2_type": "scep",
+        "type": "weapon",
+        "sub_type": "scepter",
+        "img_name": "war_scepter.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "buc": {
+        "name": "Buckler",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "buckler.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "sml": {
+        "name": "Small Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "small_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "lrg": {
+        "name": "Large Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "large_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "kit": {
+        "name": "Kite Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "kite_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "tow": {
+        "name": "Tower Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "tower_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "gts": {
+        "name": "Gothic Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "gothic_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "bsh": {
+        "name": "Bone Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "bone_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "spk": {
+        "name": "Spiked Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "spiked_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xuc": {
+        "name": "Defender",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "buckler.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xml": {
+        "name": "Round Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "small_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "xrg": {
+        "name": "Scutum",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "large_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xit": {
+        "name": "Dragon Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "kite_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xow": {
+        "name": "Pavise",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "tower_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xts": {
+        "name": "Ancient Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "gothic_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "xsh": {
+        "name": "Grim Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "bone_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xpk": {
+        "name": "Barbed Shield",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "spiked_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uuc": {
+        "name": "Heater",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "buckler.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "uml": {
+        "name": "Luna",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "small_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "urg": {
+        "name": "Hyperion",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "large_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uit": {
+        "name": "Monarch",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "kite_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uow": {
+        "name": "Aegis",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "tower_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uts": {
+        "name": "Ward",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "gothic_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "ush": {
+        "name": "Troll Nest",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "bone_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "upk": {
+        "name": "Blade Barrier",
+        "d2_type": "shie",
+        "type": "armor",
+        "sub_type": "shield",
+        "img_name": "spiked_shield.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9br": {
+        "name": "War Fork",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "brandistock.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7br": {
+        "name": "Mancatcher",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "brandistock.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9p9": {
+        "name": "Lance",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "pike.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7p7": {
+        "name": "War Pike",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "pike.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "spr": {
+        "name": "Spear",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "spear.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "tri": {
+        "name": "Trident",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "trident.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "brn": {
+        "name": "Brandistock",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "brandistock.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "spt": {
+        "name": "Spetum",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "spetum.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "pik": {
+        "name": "Pike",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "pike.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9sr": {
+        "name": "War Spear",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "spear.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7sr": {
+        "name": "Hyperion Spear",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "spear.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9tr": {
+        "name": "Fuscina",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "trident.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9st": {
+        "name": "Yari",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "spetum.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7tr": {
+        "name": "Stygian Pike",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "trident.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7st": {
+        "name": "Ghost Spear",
+        "d2_type": "spea",
+        "type": "weapon",
+        "sub_type": "spear",
+        "img_name": "spetum.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "sst": {
+        "name": "Short Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "short_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "lst": {
+        "name": "Long Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "long_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "cst": {
+        "name": "Gnarled Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "gnarled_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "bst": {
+        "name": "Battle Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "battle_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "wst": {
+        "name": "War Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "war_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "hst": {
+        "name": "Horadric Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "horadric_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "msf": {
+        "name": "Staff of the Kings",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "staff_of_the_kings.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "8ss": {
+        "name": "Jo Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "short_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "6ss": {
+        "name": "Walking Stick",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "short_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "8cs": {
+        "name": "Cedar Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "gnarled_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "6cs": {
+        "name": "Elder Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "gnarled_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "8ws": {
+        "name": "Rune Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "war_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "6ws": {
+        "name": "Archon Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "war_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "8ls": {
+        "name": "Quarterstaff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "battle_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "8bs": {
+        "name": "Gothic Staff",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "battle_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "6ls": {
+        "name": "Stalagmite",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "battle_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "6bs": {
+        "name": "Shillelah",
+        "d2_type": "staf",
+        "type": "weapon",
+        "sub_type": "staff",
+        "img_name": "battle_staff.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "2hs": {
+        "name": "Two-Handed Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "two_handed_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "72h": {
+        "name": "Legend Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "two_handed_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "7b7": {
+        "name": "Champion Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "bastard_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "7bs": {
+        "name": "Conquest Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "broad_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7cm": {
+        "name": "Highland Blade",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "claymore.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "7cr": {
+        "name": "Phase Blade",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "crystal_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7fb": {
+        "name": "Colossal Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "flamberge.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7fc": {
+        "name": "Hydra Edge",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "falchion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7gd": {
+        "name": "Colossus Blade",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "great_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "7gs": {
+        "name": "Balrog Blade",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "giant_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "7ls": {
+        "name": "Cryptic Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "long_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7sb": {
+        "name": "Elegant Blade",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "saber.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7sm": {
+        "name": "Ataghan",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "scimitar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7ss": {
+        "name": "Falcata",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "short_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "7wd": {
+        "name": "Mythical Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "war_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "92h": {
+        "name": "Espadon",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "two_handed_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "9b9": {
+        "name": "Gothic Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "bastard_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "9bs": {
+        "name": "Battle Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "broad_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9cm": {
+        "name": "Dacian Falx",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "claymore.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "9cr": {
+        "name": "Dimensional Blade",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "crystal_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9fb": {
+        "name": "Zweihander",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "flamberge.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9fc": {
+        "name": "Tulwar",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "falchion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9gd": {
+        "name": "Executioner Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "great_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "9gs": {
+        "name": "Tusk Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "giant_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "9ls": {
+        "name": "Rune Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "long_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9sb": {
+        "name": "Shamshir",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "saber.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9sm": {
+        "name": "Cutlass",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "scimitar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9ss": {
+        "name": "Gladius",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "short_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "9wd": {
+        "name": "Ancient Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "war_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "bsd": {
+        "name": "Broad Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "broad_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "bsw": {
+        "name": "Bastard Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "bastard_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "clm": {
+        "name": "Claymore",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "claymore.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "crs": {
+        "name": "Crystal Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "crystal_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "flb": {
+        "name": "Flamberge",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "flamberge.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "flc": {
+        "name": "Falchion",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "falchion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "gis": {
+        "name": "Giant Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "giant_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "gsd": {
+        "name": "Great Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "great_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 4
+    },
+    "lsd": {
+        "name": "Long Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "long_sword.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "sbr": {
+        "name": "Saber",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "saber.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "scm": {
+        "name": "Scimitar",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "scimitar.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "ssd": {
+        "name": "Short Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "short_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "wsd": {
+        "name": "War Sword",
+        "d2_type": "swor",
+        "type": "weapon",
+        "sub_type": "sword",
+        "img_name": "war_sword.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "tax": {
+        "name": "Throwing Axe",
+        "d2_type": "taxe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "throwing_axe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "bal": {
+        "name": "Balanced Axe",
+        "d2_type": "taxe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "balanced_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "9ta": {
+        "name": "Francisca",
+        "d2_type": "taxe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "throwing_axe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9b8": {
+        "name": "Hurlbat",
+        "d2_type": "taxe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "balanced_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "7ta": {
+        "name": "Flying Axe",
+        "d2_type": "taxe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "throwing_axe.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7b8": {
+        "name": "Winged Axe",
+        "d2_type": "taxe",
+        "type": "weapon",
+        "sub_type": "axe",
+        "img_name": "balanced_axe.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "tkf": {
+        "name": "Throwing Knife",
+        "d2_type": "tkni",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "throwing_knife.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "bkf": {
+        "name": "Balanced Knife",
+        "d2_type": "tkni",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "balanced_knife.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9tk": {
+        "name": "Battle Dart",
+        "d2_type": "tkni",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "throwing_knife.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9bk": {
+        "name": "War Dart",
+        "d2_type": "tkni",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "balanced_knife.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7tk": {
+        "name": "Flying Knife",
+        "d2_type": "tkni",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "throwing_knife.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7bk": {
+        "name": "Winged Knife",
+        "d2_type": "tkni",
+        "type": "weapon",
+        "sub_type": "knife",
+        "img_name": "balanced_knife.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "qui": {
+        "name": "Quilted Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "quilted_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "lea": {
+        "name": "Leather Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "leather_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "hla": {
+        "name": "Hard Leather Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "hard_leather_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "stu": {
+        "name": "Studded Leather",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "studded_leather.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "rng": {
+        "name": "Ring Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "ring_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "scl": {
+        "name": "Scale Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "scale_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "chn": {
+        "name": "Chain Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "chain_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "brs": {
+        "name": "Breast Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "breast_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "spl": {
+        "name": "Splint Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "splint_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "plt": {
+        "name": "Plate Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "plate_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "fld": {
+        "name": "Field Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "field_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "gth": {
+        "name": "Gothic Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "gothic_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ful": {
+        "name": "Full Plate Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "full_plate_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "aar": {
+        "name": "Ancient Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "ancient_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ltp": {
+        "name": "Light Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "light_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xui": {
+        "name": "Ghost Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "quilted_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xea": {
+        "name": "Serpentskin Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "leather_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xla": {
+        "name": "Demonhide Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "hard_leather_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xtu": {
+        "name": "Trellised Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "studded_leather.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xng": {
+        "name": "Linked Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "ring_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xcl": {
+        "name": "Tigulated Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "scale_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xhn": {
+        "name": "Mesh Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "chain_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xrs": {
+        "name": "Cuirass",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "breast_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xpl": {
+        "name": "Russet Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "splint_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xlt": {
+        "name": "Templar Coat",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "plate_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xld": {
+        "name": "Sharktooth Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "field_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xth": {
+        "name": "Embossed Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "gothic_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xul": {
+        "name": "Chaos Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "full_plate_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xar": {
+        "name": "Ornate Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "ancient_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "xtp": {
+        "name": "Mage Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "light_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uui": {
+        "name": "Dusk Shroud",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "quilted_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uea": {
+        "name": "Wyrmhide",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "leather_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ula": {
+        "name": "Scarab Husk",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "hard_leather_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "utu": {
+        "name": "Wire Fleece",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "studded_leather.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ung": {
+        "name": "Diamond Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "ring_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ucl": {
+        "name": "Loricated Mail",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "scale_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uhn": {
+        "name": "Boneweave",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "chain_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "urs": {
+        "name": "Great Hauberk",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "breast_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "upl": {
+        "name": "Balrog Skin",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "splint_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "ult": {
+        "name": "Hellforged Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "plate_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uld": {
+        "name": "Kraken Shell",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "field_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uth": {
+        "name": "Lacquered Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "gothic_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uul": {
+        "name": "Shadow Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "full_plate_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "uar": {
+        "name": "Sacred Armor",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "ancient_armor.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "utp": {
+        "name": "Archon Plate",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "light_plate.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "rar": {
+        "name": "Boneweave [S]",
+        "d2_type": "tors",
+        "type": "armor",
+        "sub_type": "armor",
+        "img_name": "chain_mail.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "gps": {
+        "name": "Rancid Gas Potion",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpgl": {
+        "name": "TPot Gas Large",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpcs": {
+        "name": "TPot Cold Small",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpm": {
+        "name": "Choking Gas Potion",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpl": {
+        "name": "Strangling Gas Potion",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpgs": {
+        "name": "TPot Gas Small",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpgm": {
+        "name": "TPot Gas Medium",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpcm": {
+        "name": "TPot Cold Medium",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpcl": {
+        "name": "TPot Cold Large",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ops": {
+        "name": "Oil Potion",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "opm": {
+        "name": "Exploding Potion",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpfm": {
+        "name": "TPot Fire Medium",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpfl": {
+        "name": "TPot Fire Large",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpls": {
+        "name": "TPot Light Small",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tplm": {
+        "name": "TPot Light Medium",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "opl": {
+        "name": "Fulminating Potion",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpfs": {
+        "name": "TPot Fire Small",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tpll": {
+        "name": "TPot Light Large",
+        "d2_type": "tpot",
+        "type": "weapon",
+        "sub_type": "potion",
+        "img_name": "choking_gas_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "9bw": {
+        "name": "Tomb Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "bone_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9gw": {
+        "name": "Grave Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "grim_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7bw": {
+        "name": "Lich Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "bone_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7gw": {
+        "name": "Unearthed Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "grim_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "wnd": {
+        "name": "Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ywn": {
+        "name": "Yew Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "yew_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "bwn": {
+        "name": "Bone Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "bone_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "gwn": {
+        "name": "Grim Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "grim_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9wn": {
+        "name": "Burnt Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7wn": {
+        "name": "Polished Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "9yw": {
+        "name": "Petrified Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "yew_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "7yw": {
+        "name": "Ghost Wand",
+        "d2_type": "wand",
+        "type": "weapon",
+        "sub_type": "wand",
+        "img_name": "yew_wand.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "8hx": {
+        "name": "Balista",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "heavy_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "8rx": {
+        "name": "Chu-Ko-Nu",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "repeating_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6hx": {
+        "name": "Colossus Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "heavy_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "6rx": {
+        "name": "Demon Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "repeating_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "lxb": {
+        "name": "Light Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "light_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "mxb": {
+        "name": "Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "hxb": {
+        "name": "Heavy Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "heavy_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 4
+    },
+    "rxb": {
+        "name": "Repeating Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "repeating_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "8lx": {
+        "name": "Arbalest",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "light_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "8mx": {
+        "name": "Siege Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6lx": {
+        "name": "Pellet Bow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "light_crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "6mx": {
+        "name": "Gorgon Crossbow",
+        "d2_type": "xbow",
+        "type": "weapon",
+        "sub_type": "bow",
+        "img_name": "crossbow.sprite.00.png",
+        "size_x": 2,
+        "size_y": 3
+    },
+    "elx": {
+        "name": "elixir",
+        "d2_type": "elixir",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "elixir.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hpo": {
+        "name": "Healing Potion",
+        "d2_type": "Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mpo": {
+        "name": "Mana Potion",
+        "d2_type": "Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hpf": {
+        "name": "Full Healing Potion",
+        "d2_type": "Full Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mpf": {
+        "name": "Full Mana Potion",
+        "d2_type": "Full Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "vps": {
+        "name": "Stamina Potion",
+        "d2_type": "Stamina Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "stamina_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "yps": {
+        "name": "Antidote Potion",
+        "d2_type": "Antidote Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "antidote_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rvs": {
+        "name": "Rejuv Potion",
+        "d2_type": "Rejuv Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "full_rejuv_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rvl": {
+        "name": "Full Rejuv Potion",
+        "d2_type": "Full Rejuv Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "full_rejuv_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "wms": {
+        "name": "Thawing Potion",
+        "d2_type": "Thawing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "thawing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tbk": {
+        "name": "Town Portal Book",
+        "d2_type": "Town Portal Book",
+        "type": "misc",
+        "sub_type": "book",
+        "img_name": "town_portal_book.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ibk": {
+        "name": "Identify Book",
+        "d2_type": "Identify Book",
+        "type": "misc",
+        "sub_type": "book",
+        "img_name": "identify_book.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "amu": {
+        "name": "amulet",
+        "d2_type": "amulet",
+        "type": "misc",
+        "sub_type": "amulet",
+        "img_name": "amulet2.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "vip": {
+        "name": "viper amulet",
+        "d2_type": "viper amulet",
+        "type": "misc",
+        "sub_type": "amulet",
+        "img_name": "viper_amulet.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rin": {
+        "name": "ring",
+        "d2_type": "ring",
+        "type": "misc",
+        "sub_type": "ring",
+        "img_name": "ring.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gld": {
+        "name": "gold",
+        "d2_type": "gold",
+        "type": "misc",
+        "sub_type": "gold",
+        "img_name": "gold.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "bks": {
+        "name": "Bark Scroll",
+        "d2_type": "Bark Scroll",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "bark_scroll.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "bkd": {
+        "name": "deciphered Bark Scroll",
+        "d2_type": "deciphered Bark Scroll",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "bark_scroll.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "aqv": {
+        "name": "Arrows",
+        "d2_type": "Arrows",
+        "type": "misc",
+        "sub_type": "quiver",
+        "img_name": "arrows.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "tch": {
+        "name": "Torch",
+        "d2_type": "Torch",
+        "type": "misc",
+        "sub_type": "torch",
+        "img_name": "torch.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "cqv": {
+        "name": "Bolts",
+        "d2_type": "Bolts",
+        "type": "misc",
+        "sub_type": "quiver",
+        "img_name": "bolts.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "tsc": {
+        "name": "Town Portal Scroll",
+        "d2_type": "Town Portal Scroll",
+        "type": "misc",
+        "sub_type": "scroll",
+        "img_name": "town_portal_scroll.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "isc": {
+        "name": "Identify Scroll",
+        "d2_type": "Identify Scroll",
+        "type": "misc",
+        "sub_type": "scroll",
+        "img_name": "identify_scroll.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hrt": {
+        "name": "Heart",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "heart.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "brz": {
+        "name": "Brain",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "brain.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "jaw": {
+        "name": "Jawbone",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "jawbone.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "eyz": {
+        "name": "Eye",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "eye.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hrn": {
+        "name": "Horn",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "horn.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tal": {
+        "name": "Tail",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "tail.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "flg": {
+        "name": "Flag",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "flag.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "fng": {
+        "name": "Fang",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "fang.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "qll": {
+        "name": "Quill",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "quill.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "sol": {
+        "name": "Soul",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "soul.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "scz": {
+        "name": "Scalp",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "tail.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "spe": {
+        "name": "Spleen",
+        "d2_type": "Not used",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "spleen.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "key": {
+        "name": "Skeleton Key",
+        "d2_type": "Skeleton Key",
+        "type": "misc",
+        "sub_type": "key",
+        "img_name": "skeleton_key.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "luv": {
+        "name": "Mephisto Key",
+        "d2_type": "Mephisto Key",
+        "type": "misc",
+        "sub_type": "key",
+        "img_name": "mephisto_key.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "xyz": {
+        "name": "scroll of self resurrect",
+        "d2_type": "scroll of self resurrect",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "scroll_of_self_resurrect.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "j34": {
+        "name": "jade figurine",
+        "d2_type": "jade figurine",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "jade_figurine.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "g34": {
+        "name": "gold bird",
+        "d2_type": "gold bird",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "gold_bird.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "bbb": {
+        "name": "lam esen's tome",
+        "d2_type": "lam esen's tome",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "lam_esens_tome.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "box": {
+        "name": "Horadric Cube",
+        "d2_type": "Horadric Cube",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "horadric_cube.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "tr1": {
+        "name": "Scroll of Horadric Quest Info",
+        "d2_type": "Scroll of Horadric Quest Info",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "scroll_of_horadric_quest_info.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "mss": {
+        "name": "Mephisto SoulStone",
+        "d2_type": "Mephisto SoulStone",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "mephisto_soul_stone.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ass": {
+        "name": "Book of Skill",
+        "d2_type": "Book of Skill",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "book_of_skill.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "qey": {
+        "name": "KhalimEye",
+        "d2_type": "KhalimEye",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "eye.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "qhr": {
+        "name": "KhalimHeart",
+        "d2_type": "KhalimHeart",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "heart.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "qbr": {
+        "name": "KhalimBrain",
+        "d2_type": "KhalimBrain",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "brain.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ear": {
+        "name": "Player Ear",
+        "d2_type": "Player Ear",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "player_ear.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gcv": {
+        "name": "Chipped Amethyst",
+        "d2_type": "Chipped Amethyst",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gfv": {
+        "name": "Flawed Amethyst",
+        "d2_type": "Flawed Amethyst",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gsv": {
+        "name": "Amethyst",
+        "d2_type": "Amethyst",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gzv": {
+        "name": "Flawless Amethyst",
+        "d2_type": "Flawless Amethyst",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpv": {
+        "name": "Perfect Amethyst",
+        "d2_type": "Perfect Amethyst",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gcy": {
+        "name": "Chipped Topaz",
+        "d2_type": "Chipped Topaz",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gfy": {
+        "name": "Flawed Topaz",
+        "d2_type": "Flawed Topaz",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gsy": {
+        "name": "Topaz",
+        "d2_type": "Topaz",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gly": {
+        "name": "Flawless Topaz",
+        "d2_type": "Flawless Topaz",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpy": {
+        "name": "Perfect Topaz",
+        "d2_type": "Perfect Topaz",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gcb": {
+        "name": "Chipped Saphire",
+        "d2_type": "Chipped Saphire",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gfb": {
+        "name": "Flawed Saphire",
+        "d2_type": "Flawed Saphire",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gsb": {
+        "name": "Saphire",
+        "d2_type": "Saphire",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glb": {
+        "name": "Flawless Saphire",
+        "d2_type": "Flawless Saphire",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpb": {
+        "name": "Perfect Saphire",
+        "d2_type": "Perfect Saphire",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gcg": {
+        "name": "Chipped Emerald",
+        "d2_type": "Chipped Emerald",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gfg": {
+        "name": "Flawed Emerald",
+        "d2_type": "Flawed Emerald",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gsg": {
+        "name": "Emerald",
+        "d2_type": "Emerald",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glg": {
+        "name": "Flawless Emerald",
+        "d2_type": "Flawless Emerald",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpg": {
+        "name": "Perfect Emerald",
+        "d2_type": "Perfect Emerald",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gcr": {
+        "name": "Chipped Ruby",
+        "d2_type": "Chipped Ruby",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gfr": {
+        "name": "Flawed Ruby",
+        "d2_type": "Flawed Ruby",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gsr": {
+        "name": "Ruby",
+        "d2_type": "Ruby",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glr": {
+        "name": "Flawless Ruby",
+        "d2_type": "Flawless Ruby",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpr": {
+        "name": "Perfect Ruby",
+        "d2_type": "Perfect Ruby",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gcw": {
+        "name": "Chipped Diamond",
+        "d2_type": "Chipped Diamond",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gfw": {
+        "name": "Flawed Diamond",
+        "d2_type": "Flawed Diamond",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gsw": {
+        "name": "Diamond",
+        "d2_type": "Diamond",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glw": {
+        "name": "Flawless Diamond",
+        "d2_type": "Flawless Diamond",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpw": {
+        "name": "Perfect Diamond",
+        "d2_type": "Perfect Diamond",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hp1": {
+        "name": "Lesser Healing Potion",
+        "d2_type": "Lesser Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hp2": {
+        "name": "Light Healing Potion",
+        "d2_type": "Light Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hp3": {
+        "name": "Healing Potion",
+        "d2_type": "Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hp4": {
+        "name": "Strong Healing Potion",
+        "d2_type": "Strong Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hp5": {
+        "name": "Greater Healing Potion",
+        "d2_type": "Greater Healing Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mp1": {
+        "name": "Lesser Mana Potion",
+        "d2_type": "Lesser Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mp2": {
+        "name": "Light Mana Potion",
+        "d2_type": "Light Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mp3": {
+        "name": "Mana Potion",
+        "d2_type": "Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mp4": {
+        "name": "Strong Mana Potion",
+        "d2_type": "Strong Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mp5": {
+        "name": "Greater Mana Potion",
+        "d2_type": "Greater Mana Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "greater_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "skc": {
+        "name": "Chipped Skull",
+        "d2_type": "Chipped Skull",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "chipped_skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "skf": {
+        "name": "Flawed Skull",
+        "d2_type": "Flawed Skull",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawed_skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "sku": {
+        "name": "Skull",
+        "d2_type": "Skull",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "skl": {
+        "name": "Flawless Skull",
+        "d2_type": "Flawless Skull",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "skz": {
+        "name": "Perfect Skull",
+        "d2_type": "Perfect Skull",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "hrb": {
+        "name": "herb",
+        "d2_type": "herb",
+        "type": "misc",
+        "sub_type": "herb",
+        "img_name": "herb.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "cm1": {
+        "name": "Charm Small",
+        "d2_type": "Charm Small",
+        "type": "misc",
+        "sub_type": "charm",
+        "img_name": "charm_small.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "cm2": {
+        "name": "Charm Medium",
+        "d2_type": "Charm Medium",
+        "type": "misc",
+        "sub_type": "charm",
+        "img_name": "charm_medium.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "cm3": {
+        "name": "Charm Large",
+        "d2_type": "Charm Large",
+        "type": "misc",
+        "sub_type": "charm",
+        "img_name": "charm_large.sprite.00.png",
+        "size_x": 1,
+        "size_y": 3
+    },
+    "rps": {
+        "name": "Small Red Potion",
+        "d2_type": "Small Red Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rpl": {
+        "name": "Large Red Potion",
+        "d2_type": "Large Red Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "full_healing_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "bps": {
+        "name": "Small Blue Potion",
+        "d2_type": "Small Blue Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "bpl": {
+        "name": "Large Blue Potion",
+        "d2_type": "Large Blue Potion",
+        "type": "misc",
+        "sub_type": "potion",
+        "img_name": "full_mana_potion.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r01": {
+        "name": "El",
+        "d2_type": "El Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "el_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r02": {
+        "name": "Eld",
+        "d2_type": "Eld Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eld_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r03": {
+        "name": "Tir",
+        "d2_type": "Tir Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tir_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r04": {
+        "name": "Nef",
+        "d2_type": "Nef Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "nef_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r05": {
+        "name": "Eth",
+        "d2_type": "Eth Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eth_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r06": {
+        "name": "Ith",
+        "d2_type": "Ith Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ith_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r07": {
+        "name": "Tal",
+        "d2_type": "Tal Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tal_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r08": {
+        "name": "Ral",
+        "d2_type": "Ral Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ral_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r09": {
+        "name": "Ort",
+        "d2_type": "Ort Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ort_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r10": {
+        "name": "Thul",
+        "d2_type": "Thul Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "thul_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r11": {
+        "name": "Amn",
+        "d2_type": "Amn Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "amn_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r12": {
+        "name": "Sol",
+        "d2_type": "Sol Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sol_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r13": {
+        "name": "Shael",
+        "d2_type": "Shael Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "shael_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r14": {
+        "name": "Dol",
+        "d2_type": "Dol Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "dol_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r15": {
+        "name": "Hel",
+        "d2_type": "Hel Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "hel_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r16": {
+        "name": "Io",
+        "d2_type": "Io Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "io_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r17": {
+        "name": "Lum",
+        "d2_type": "Lum Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lum_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r18": {
+        "name": "Ko",
+        "d2_type": "Ko Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ko_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r19": {
+        "name": "Fal",
+        "d2_type": "Fal Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "fal_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r20": {
+        "name": "Lem",
+        "d2_type": "Lem Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lem_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r21": {
+        "name": "Pul",
+        "d2_type": "Pul Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "pul_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r22": {
+        "name": "Um",
+        "d2_type": "Um Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "um_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r23": {
+        "name": "Mal",
+        "d2_type": "Mal Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "mal_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r24": {
+        "name": "Ist",
+        "d2_type": "Ist Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ist_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r25": {
+        "name": "Gul",
+        "d2_type": "Gul Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "gul_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r26": {
+        "name": "Vex",
+        "d2_type": "Vex Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "vex_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r27": {
+        "name": "Ohm",
+        "d2_type": "Ohm Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ohm_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r28": {
+        "name": "Lo",
+        "d2_type": "Lo Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lo_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r29": {
+        "name": "Sur",
+        "d2_type": "Sur Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sur_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r30": {
+        "name": "Ber",
+        "d2_type": "Ber Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ber_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r31": {
+        "name": "Jah",
+        "d2_type": "Jah Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "jah_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r32": {
+        "name": "Cham",
+        "d2_type": "Cham Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "cham_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r33": {
+        "name": "Zod",
+        "d2_type": "Zod Rune",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "zod_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "jew": {
+        "name": "Jewel",
+        "d2_type": "Jewel",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_diamond6.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ice": {
+        "name": "ice",
+        "d2_type": "Maguffin",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "0sc": {
+        "name": "Scroll",
+        "d2_type": "Scroll",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "bark_scroll.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "tr2": {
+        "name": "Scroll of Malah - Boost Resistances",
+        "d2_type": "Scroll of Malah - Boost Resistances",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "bark_scroll.sprite.00.png",
+        "size_x": 2,
+        "size_y": 2
+    },
+    "pk1": {
+        "name": "Pandemonium Key 1",
+        "d2_type": "Pandemonium Key 1",
+        "type": "misc",
+        "sub_type": "key",
+        "img_name": "mephisto_key.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "pk2": {
+        "name": "Pandemonium Key 2",
+        "d2_type": "Pandemonium Key 2",
+        "type": "misc",
+        "sub_type": "key",
+        "img_name": "mephisto_key.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "pk3": {
+        "name": "Pandemonium Key 3",
+        "d2_type": "Pandemonium Key 3",
+        "type": "misc",
+        "sub_type": "key",
+        "img_name": "mephisto_key.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "dhn": {
+        "name": "Diablo's Horn",
+        "d2_type": "Diablo's Horn",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "horn.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "bey": {
+        "name": "Baal's Eye",
+        "d2_type": "Baal's Eye",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "eye.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "mbr": {
+        "name": "Mephisto's Brain",
+        "d2_type": "Mephisto's Brain",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "brain.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "toa": {
+        "name": "Token of Absolution",
+        "d2_type": "Token of Absolution",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "token_of_absolution.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "tes": {
+        "name": "Twisted Essence of Suffering",
+        "d2_type": "Twisted Essence of Suffering",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "twisted_essence_of_suffering.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ceh": {
+        "name": "Charged Essense of Hatred",
+        "d2_type": "Charged Essense of Hatred",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "charged_essense_of_hatred.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "bet": {
+        "name": "Burning Essence of Terror",
+        "d2_type": "Burning Essence of Terror",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "burning_essence_of_terror.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "fed": {
+        "name": "Festering Essence of Destruction",
+        "d2_type": "Festering Essence of Destruction",
+        "type": "misc",
+        "sub_type": "quest",
+        "img_name": "festering_essence_of_destruction.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "std": {
+        "name": "Standard",
+        "d2_type": "Standard",
+        "type": "misc",
+        "sub_type": "body_part",
+        "img_name": "flag.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "wss": {
+        "name": "Worldstone Shard",
+        "d2_type": "Worldstone Shard",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "imma": {
+        "name": "Imbue Magic",
+        "d2_type": "Imbue Magic",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "imrn": {
+        "name": "Imbue Random",
+        "d2_type": "Imbue Random",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "imra": {
+        "name": "Imbue Rare",
+        "d2_type": "Imbue Rare",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rera": {
+        "name": "Reroll Rare",
+        "d2_type": "Reroll Rare",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "scou": {
+        "name": "Scour",
+        "d2_type": "Scour",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "upma": {
+        "name": "Upgrade Mag",
+        "d2_type": "Upgrade Mag",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "upmp": {
+        "name": "Upgrade Map",
+        "d2_type": "Upgrade Map",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "fort": {
+        "name": "Fortify Map",
+        "d2_type": "Fortify Map",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "scrb": {
+        "name": "Dungeon Scarab",
+        "d2_type": "Dungeon Scarab",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "lbox": {
+        "name": "Puzzlebox",
+        "d2_type": "Puzzlebox",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gzvs": {
+        "name": "Flawless Amethyst Stack",
+        "d2_type": "Flawless Amethyst Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpvs": {
+        "name": "Perfect Amethyst Stack",
+        "d2_type": "Perfect Amethyst Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_amethyst.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glys": {
+        "name": "Flawless Topaz Stack",
+        "d2_type": "Flawless Topaz Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpys": {
+        "name": "Perfect Topaz Stack",
+        "d2_type": "Perfect Topaz Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_topaz.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glbs": {
+        "name": "Flawless Saphire Stack",
+        "d2_type": "Flawless Saphire Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpbs": {
+        "name": "Perfect Saphire Stack",
+        "d2_type": "Perfect Saphire Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_saphire.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glgs": {
+        "name": "Flawless Emerald Stack",
+        "d2_type": "Flawless Emerald Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpgs": {
+        "name": "Perfect Emerald Stack",
+        "d2_type": "Perfect Emerald Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_emerald.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glrs": {
+        "name": "Flawless Ruby Stack",
+        "d2_type": "Flawless Ruby Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gprs": {
+        "name": "Perfect Ruby Stack",
+        "d2_type": "Perfect Ruby Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_ruby.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "glws": {
+        "name": "Flawless Diamond Stack",
+        "d2_type": "Flawless Diamond Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "gpws": {
+        "name": "Perfect Diamond Stack",
+        "d2_type": "Perfect Diamond Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_diamond.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "skls": {
+        "name": "Flawless Skull Stack",
+        "d2_type": "Flawless Skull Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "flawless_skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "skzs": {
+        "name": "Perfect Skull Stack",
+        "d2_type": "Perfect Skull Stack",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_skull.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r01s": {
+        "name": "El",
+        "d2_type": "El Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "el_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r02s": {
+        "name": "Eld",
+        "d2_type": "Eld Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eld_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r03s": {
+        "name": "Tir",
+        "d2_type": "Tir Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tir_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r04s": {
+        "name": "Nef",
+        "d2_type": "Nef Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "nef_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r05s": {
+        "name": "Eth",
+        "d2_type": "Eth Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eth_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r06s": {
+        "name": "Ith",
+        "d2_type": "Ith Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ith_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r07s": {
+        "name": "Tal",
+        "d2_type": "Tal Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tal_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r08s": {
+        "name": "Ral",
+        "d2_type": "Ral Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ral_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r09s": {
+        "name": "Ort",
+        "d2_type": "Ort Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ort_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r10s": {
+        "name": "Thul",
+        "d2_type": "Thul Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "thul_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r11s": {
+        "name": "Amn",
+        "d2_type": "Amn Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "amn_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r12s": {
+        "name": "Sol",
+        "d2_type": "Sol Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sol_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r13s": {
+        "name": "Shael",
+        "d2_type": "Shael Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "shael_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r14s": {
+        "name": "Dol",
+        "d2_type": "Dol Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "dol_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r15s": {
+        "name": "Hel",
+        "d2_type": "Hel Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "hel_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r16s": {
+        "name": "Io",
+        "d2_type": "Io Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "io_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r17s": {
+        "name": "Lum",
+        "d2_type": "Lum Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lum_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r18s": {
+        "name": "Ko",
+        "d2_type": "Ko Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ko_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r19s": {
+        "name": "Fal",
+        "d2_type": "Fal Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "fal_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r20s": {
+        "name": "Lem",
+        "d2_type": "Lem Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lem_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r21s": {
+        "name": "Pul",
+        "d2_type": "Pul Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "pul_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r22s": {
+        "name": "Um",
+        "d2_type": "Um Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "um_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r23s": {
+        "name": "Mal",
+        "d2_type": "Mal Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "mal_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r24s": {
+        "name": "Ist",
+        "d2_type": "Ist Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ist_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r25s": {
+        "name": "Gul",
+        "d2_type": "Gul Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "gul_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r26s": {
+        "name": "Vex",
+        "d2_type": "Vex Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "vex_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r27s": {
+        "name": "Ohm",
+        "d2_type": "Ohm Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ohm_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r28s": {
+        "name": "Lo",
+        "d2_type": "Lo Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lo_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r29s": {
+        "name": "Sur",
+        "d2_type": "Sur Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sur_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r30s": {
+        "name": "Ber",
+        "d2_type": "Ber Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ber_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r31s": {
+        "name": "Jah",
+        "d2_type": "Jah Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "jah_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r32s": {
+        "name": "Cham",
+        "d2_type": "Cham Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "cham_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "r33s": {
+        "name": "Zod",
+        "d2_type": "Zod Rune Stack",
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "zod_rune.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ubtm": {
+        "name": "Uber Trist Map",
+        "d2_type": "Uber Trist Map",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "dcma": {
+        "name": "Uber Map",
+        "d2_type": "Uber Map",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "dcbl": {
+        "name": "Uber Blood",
+        "d2_type": "Uber Blood",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "dcho": {
+        "name": "Uber Horn",
+        "d2_type": "Uber Horn",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "dcso": {
+        "name": "Uber Soul",
+        "d2_type": "Uber Soul",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t11": {
+        "name": "Ruins of VizJun",
+        "d2_type": "Kurast Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t12": {
+        "name": "Horazon's Memory",
+        "d2_type": "Arcane Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t13": {
+        "name": "Bastion Keep",
+        "d2_type": "Fortress Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t21": {
+        "name": "Phlegeton",
+        "d2_type": "Lava Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t22": {
+        "name": "Torajan Jungle",
+        "d2_type": "Jungle Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t23": {
+        "name": "Arreat Battlefield",
+        "d2_type": "Siege Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t24": {
+        "name": "Tomb of Zoltun Kulle",
+        "d2_type": "Tomb Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t25": {
+        "name": "Sewers of Harrogath",
+        "d2_type": "Sewer Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t31": {
+        "name": "River of Blood",
+        "d2_type": "River Of Blood Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t32": {
+        "name": "Throne of Insanity",
+        "d2_type": "Throne Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t33": {
+        "name": "Lost Temple",
+        "d2_type": "Spider Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t34": {
+        "name": "Ancestral Trial",
+        "d2_type": "Ice Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t35": {
+        "name": "Blood Moon",
+        "d2_type": "Graveyard Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t36": {
+        "name": "Fall of Caldeum",
+        "d2_type": "Caldeum Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t37": {
+        "name": "Pandemonium Citadel",
+        "d2_type": "Pandemonium Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t41": {
+        "name": "Cathedral of Light",
+        "d2_type": "Monastery Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t99": {
+        "name": "unused",
+        "d2_type": "Mesa Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t39": {
+        "name": "Kehjistan Marketplace",
+        "d2_type": "Desert Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t61": {
+        "name": "Moor Arena",
+        "d2_type": "Pvp Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t62": {
+        "name": "Desert Arena",
+        "d2_type": "Pvp Map 2",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rtma": {
+        "name": "Voidstone",
+        "d2_type": "Rathma Map",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "cwss": {
+        "name": "Corrupted Worldstone Shard",
+        "d2_type": "Corrupted Worldstone Shard",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t38": {
+        "name": "Canyon of Secheron",
+        "d2_type": "Frozen Forest Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ram": {
+        "name": "amulet with socket",
+        "d2_type": "Amulet [S]",
+        "type": "misc",
+        "sub_type": "amulet",
+        "img_name": "amulet.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rtmo": {
+        "name": "TrangOul Jawbone",
+        "d2_type": "Rathma Ingredient",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rtp": {
+        "name": "Horadric Navigator",
+        "d2_type": "TP Book Unlimited",
+        "type": "misc",
+        "sub_type": "book",
+        "img_name": "town_portal_book.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "rid": {
+        "name": "Horadric Almanac",
+        "d2_type": "ID Book Unlimited",
+        "type": "misc",
+        "sub_type": "book",
+        "img_name": "identify_book.sprite.00.png",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "jewf": {
+        "name": "Fragments",
+        "d2_type": "Fragments",
+        "type": "misc",
+        "sub_type": "gem",
+        "img_name": "perfect_diamond1.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t42": {
+        "name": "Plains of Torment",
+        "d2_type": "Torment Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rtmv": {
+        "name": "Splinter",
+        "d2_type": "Splinter",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rtmf": {
+        "name": "Bone Fragment",
+        "d2_type": "Bone Fragment",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t14": {
+        "name": "Sanatorium",
+        "d2_type": "Library Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "uba": {
+        "name": "Uber Ancients Map",
+        "d2_type": "Uber Ancients Map",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "llmr": {
+        "name": "Lilith Mirror",
+        "d2_type": "Lilith Mirror",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "lsvl": {
+        "name": "Vial of Lightsong",
+        "d2_type": "Vial of Lightsong",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "ubaa": {
+        "name": "Uber Ancients Key A",
+        "d2_type": "Uber Ancients Key A",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ubab": {
+        "name": "Uber Ancients Key B",
+        "d2_type": "Uber Ancients Key B",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "ubac": {
+        "name": "Uber Ancients Key C",
+        "d2_type": "Uber Ancients Key C",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t26": {
+        "name": "Shadows of Westmarch",
+        "d2_type": "Westmarch Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t15": {
+        "name": "Royal Crypts",
+        "d2_type": "Crypts Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t43": {
+        "name": "Sanctuary of Sin",
+        "d2_type": "Sanctuary of Sin Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "lpp": {
+        "name": "Puzzlepiece",
+        "d2_type": "Puzzlepiece",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rkey": {
+        "name": "Skeleton Key Unlimited",
+        "d2_type": "Skeleton Key Unlimited",
+        "type": "misc",
+        "sub_type": "key",
+        "img_name": "skeleton_key.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t16": {
+        "name": "Ruined Cistern",
+        "d2_type": "Ruined Cistern Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t3a": {
+        "name": "Ashen Plains",
+        "d2_type": "Ashes Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "lmal": {
+        "name": "Larzuks Malus",
+        "d2_type": "Larzuks Malus",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 2
+    },
+    "pvpp": {
+        "name": "PVP Mana Potion",
+        "d2_type": "PVP Mana Potion",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "iwss": {
+        "name": "Force Mapevent Shard",
+        "d2_type": "Force Mapevent Shard",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t51": {
+        "name": "Zhar Map",
+        "d2_type": "Zhar Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t52": {
+        "name": "Hellcaves Map",
+        "d2_type": "Hellcaves Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "cm2f": {
+        "name": "Torch Fragment",
+        "d2_type": "Torch Fragment",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "t53": {
+        "name": "Fallen Gardens Map",
+        "d2_type": "Fallen Gardens Map",
+        "type": "misc",
+        "sub_type": "map",
+        "img_name": "map.sprite.00.png",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "irma": {
+        "name": "Imbue Magic Ready",
+        "d2_type": "Imbue Magic Ready",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "irrn": {
+        "name": "Imbue Random Ready",
+        "d2_type": "Imbue Random Ready",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "irra": {
+        "name": "Imbue Rare Ready",
+        "d2_type": "Imbue Rare Ready",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "rrra": {
+        "name": "Reroll Rare Ready",
+        "d2_type": "Reroll Rare Ready",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    },
+    "urma": {
+        "name": "Upgrade Mag Ready",
+        "d2_type": "Upgrade Mag Ready",
+        "type": "misc",
+        "sub_type": "pd2",
+        "size_x": 1,
+        "size_y": 1
+    }
+}

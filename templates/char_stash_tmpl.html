@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ static_url("styles.css") }}">
+    <title>Player's Stash</title>
+</head>
+<body>
+    <div class="tabs">
+        {% for page_index in stash %}
+        {% if page_index == 0 %}
+        <div class="tab active" data-stash="stash{{page_index+1}}">Page {{page_index+1}}</div>
+        {% else %}
+        <div class="tab" data-stash="stash{{page_index+1}}">Page {{page_index+1}}</div>
+        {% end %}
+        {% end %}
+    </div>
+
+    {% for page_index, page in stash.items() %}
+    {% if page_index == 0 %}
+    <div class="stash" id="stash{{page_index+1}}">
+    {% else %}
+    <div class="stash" id="stash{{page_index+1}}" style="display: none;">
+    {% end %}
+    {% for item in page %}
+    {% if item.item_img != '' %}
+    <div class="item {{item.display_rarity}} unknown" style="width: {{40*item.item_size[0]}}px; height: {{40*item.item_size[1]}}px; grid-row: {{item.stash_y+1}} / span 5; grid-column: {{item.stash_x+1}} / span 5; background-image: url('/static/img/{{item.item_img}}');" data-tooltip="{{item.display_attributes}}">
+    {% else %}
+    <div class="item {{item.display_rarity}} unknown" style="width: {{40*item.item_size[0]}}px; height: {{40*item.item_size[1]}}px; grid-row: {{item.stash_y+1}} / span 5; grid-column: {{item.stash_x+1}} / span 5;" data-tooltip="{{item.display_attributes}}">{{item.name}}
+    {% end %}
+    {% if item.is_quantitative and item.quantity > 1 %}
+    <span class="quantity-number">{{ item.quantity }}</span>
+    {% end %}
+    </div>
+    {% end %}
+    </div>
+    {% end %}
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script src="{{ static_url("script.js") }}"></script>
+</body>
+</html>

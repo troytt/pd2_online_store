@@ -1,0 +1,1327 @@
+{
+    "elx": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hpo": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mpo": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hpf": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mpf": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "vps": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "yps": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rvs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rvl": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "wms": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tbk": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ibk": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "amu": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "vip": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rin": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gld": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bks": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bkd": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "aqv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tch": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "cqv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tsc": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "isc": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hrt": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "brz": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "jaw": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "eyz": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hrn": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tal": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "flg": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "fng": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "qll": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "sol": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "scz": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "spe": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "key": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "luv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "xyz": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "j34": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "g34": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bbb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "box": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tr1": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mss": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ass": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "qey": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "qhr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "qbr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ear": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gcv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gfv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gsv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gzv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gcy": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gfy": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gsy": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gly": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpy": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gcb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gfb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gsb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gcg": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gfg": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gsg": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glg": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpg": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gcr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gfr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gsr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gcw": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gfw": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gsw": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glw": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpw": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hp1": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hp2": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hp3": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hp4": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hp5": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mp1": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mp2": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mp3": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mp4": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mp5": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "skc": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "skf": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "sku": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "skl": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "skz": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "hrb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "cm1": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "cm2": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "cm3": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rps": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rpl": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bps": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bpl": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "r01": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "el_rune.sprite.00.png"
+    },
+    "r02": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eld_rune.sprite.00.png"
+    },
+    "r03": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tir_rune.sprite.00.png"
+    },
+    "r04": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "nef_rune.sprite.00.png"
+    },
+    "r05": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eth_rune.sprite.00.png"
+    },
+    "r06": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ith_rune.sprite.00.png"
+    },
+    "r07": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tal_rune.sprite.00.png"
+    },
+    "r08": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ral_rune.sprite.00.png"
+    },
+    "r09": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ort_rune.sprite.00.png"
+    },
+    "r10": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "thul_rune.sprite.00.png"
+    },
+    "r11": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "amn_rune.sprite.00.png"
+    },
+    "r12": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sol_rune.sprite.00.png"
+    },
+    "r13": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "shael_rune.sprite.00.png"
+    },
+    "r14": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "dol_rune.sprite.00.png"
+    },
+    "r15": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "hel_rune.sprite.00.png"
+    },
+    "r16": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "io_rune.sprite.00.png"
+    },
+    "r17": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lum_rune.sprite.00.png"
+    },
+    "r18": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ko_rune.sprite.00.png"
+    },
+    "r19": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "fal_rune.sprite.00.png"
+    },
+    "r20": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lem_rune.sprite.00.png"
+    },
+    "r21": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "pul_rune.sprite.00.png"
+    },
+    "r22": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "um_rune.sprite.00.png"
+    },
+    "r23": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "mal_rune.sprite.00.png"
+    },
+    "r24": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ist_rune.sprite.00.png"
+    },
+    "r25": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "gul_rune.sprite.00.png"
+    },
+    "r26": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "vex_rune.sprite.00.png"
+    },
+    "r27": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ohm_rune.sprite.00.png"
+    },
+    "r28": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lo_rune.sprite.00.png"
+    },
+    "r29": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sur_rune.sprite.00.png"
+    },
+    "r30": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ber_rune.sprite.00.png"
+    },
+    "r31": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "jah_rune.sprite.00.png"
+    },
+    "r32": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "cham_rune.sprite.00.png"
+    },
+    "r33": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "zod_rune.sprite.00.png"
+    },
+    "jew": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ice": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "0sc": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tr2": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "pk1": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "pk2": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "pk3": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "dhn": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bey": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "mbr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "toa": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "tes": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ceh": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "bet": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "fed": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "std": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "wss": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "imma": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "imrn": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "imra": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rera": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "scou": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "upma": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "upmp": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "fort": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "scrb": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "lbox": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gzvs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpvs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glys": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpys": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glbs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpbs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glgs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpgs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glrs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gprs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "glws": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "gpws": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "skls": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "skzs": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "r01s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "el_rune.sprite.00.png"
+    },
+    "r02s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eld_rune.sprite.00.png"
+    },
+    "r03s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tir_rune.sprite.00.png"
+    },
+    "r04s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "nef_rune.sprite.00.png"
+    },
+    "r05s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "eth_rune.sprite.00.png"
+    },
+    "r06s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ith_rune.sprite.00.png"
+    },
+    "r07s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "tal_rune.sprite.00.png"
+    },
+    "r08s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ral_rune.sprite.00.png"
+    },
+    "r09s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ort_rune.sprite.00.png"
+    },
+    "r10s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "thul_rune.sprite.00.png"
+    },
+    "r11s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "amn_rune.sprite.00.png"
+    },
+    "r12s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sol_rune.sprite.00.png"
+    },
+    "r13s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "shael_rune.sprite.00.png"
+    },
+    "r14s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "dol_rune.sprite.00.png"
+    },
+    "r15s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "hel_rune.sprite.00.png"
+    },
+    "r16s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "io_rune.sprite.00.png"
+    },
+    "r17s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lum_rune.sprite.00.png"
+    },
+    "r18s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ko_rune.sprite.00.png"
+    },
+    "r19s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "fal_rune.sprite.00.png"
+    },
+    "r20s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lem_rune.sprite.00.png"
+    },
+    "r21s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "pul_rune.sprite.00.png"
+    },
+    "r22s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "um_rune.sprite.00.png"
+    },
+    "r23s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "mal_rune.sprite.00.png"
+    },
+    "r24s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ist_rune.sprite.00.png"
+    },
+    "r25s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "gul_rune.sprite.00.png"
+    },
+    "r26s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "vex_rune.sprite.00.png"
+    },
+    "r27s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ohm_rune.sprite.00.png"
+    },
+    "r28s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "lo_rune.sprite.00.png"
+    },
+    "r29s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "sur_rune.sprite.00.png"
+    },
+    "r30s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "ber_rune.sprite.00.png"
+    },
+    "r31s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "jah_rune.sprite.00.png"
+    },
+    "r32s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "cham_rune.sprite.00.png"
+    },
+    "r33s": {
+        "type": "misc",
+        "sub_type": "rune",
+        "img_name": "zod_rune.sprite.00.png"
+    },
+    "ubtm": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "dcma": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "dcbl": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "dcho": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "dcso": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t11": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t12": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t13": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t21": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t22": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t23": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t24": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t25": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t31": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t32": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t33": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t34": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t35": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t36": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t37": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t41": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t99": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t39": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t61": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t62": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rtma": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "cwss": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t38": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ram": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rtmo": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rtp": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rid": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "jewf": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t42": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rtmv": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rtmf": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t14": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "uba": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "llmr": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "lsvl": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ubaa": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ubab": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "ubac": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t26": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t15": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t43": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "lpp": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "rkey": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t16": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t3a": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "lmal": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "pvpp": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "iwss": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t51": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "t52": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    },
+    "cm2f": {
+        "type": "misc",
+        "sub_type": "",
+        "img_name": ""
+    }
+}

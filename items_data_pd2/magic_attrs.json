@@ -1,0 +1,3656 @@
+{
+    "0": {
+        "bits": [
+            8
+        ],
+        "bias": 32,
+        "name": "+{} to Strength",
+        "is_invisible": false,
+        "stat_name": "strength"
+    },
+    "1": {
+        "bits": [
+            7
+        ],
+        "bias": 32,
+        "name": "+{} to Energy",
+        "is_invisible": false,
+        "stat_name": "energy"
+    },
+    "2": {
+        "bits": [
+            7
+        ],
+        "bias": 32,
+        "name": "+{} to Dexterity",
+        "is_invisible": false,
+        "stat_name": "dexterity"
+    },
+    "3": {
+        "bits": [
+            7
+        ],
+        "bias": 32,
+        "name": "+{} to Vitality",
+        "is_invisible": false,
+        "stat_name": "vitality"
+    },
+    "7": {
+        "bits": [
+            9
+        ],
+        "bias": 32,
+        "name": "+{} to Life",
+        "is_invisible": false,
+        "stat_name": "maxhp"
+    },
+    "9": {
+        "bits": [
+            8
+        ],
+        "bias": 32,
+        "name": "+{} to Mana",
+        "is_invisible": false,
+        "stat_name": "maxmana"
+    },
+    "11": {
+        "bits": [
+            8
+        ],
+        "bias": 32,
+        "name": "+{} to Maximum Stamina",
+        "is_invisible": false,
+        "stat_name": "maxstamina"
+    },
+    "16": {
+        "bits": [
+            9
+        ],
+        "name": "+{}% Enhanced Defense",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_armor_percent"
+    },
+    "17": {
+        "bits": [
+            10,
+            10
+        ],
+        "name": "+{}% Enhanced Damage (Max)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_maxdamage_percent"
+    },
+    "18": {
+        "bits": [
+            10
+        ],
+        "name": "+{}% Enhanced Damage (Min)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_mindamage_percent"
+    },
+    "19": {
+        "bits": [
+            10
+        ],
+        "name": "+{} to Attack rating",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "tohit"
+    },
+    "20": {
+        "bits": [
+            6
+        ],
+        "name": "+{}% Increased chance of blocking",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "toblock"
+    },
+    "21": {
+        "bits": [
+            10
+        ],
+        "name": "+{} to Minimum 1-handed damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "mindamage"
+    },
+    "22": {
+        "bits": [
+            10
+        ],
+        "name": "+{} to Maximum 1-handed damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxdamage"
+    },
+    "23": {
+        "bits": [
+            10
+        ],
+        "name": "+{} to Minimum 2-handed damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "secondary_mindamage"
+    },
+    "24": {
+        "bits": [
+            10
+        ],
+        "name": "+{} to Maximum 2-handed damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "secondary_maxdamage"
+    },
+    "25": {
+        "bits": [
+            8
+        ],
+        "name": "Unknown",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "damagepercent"
+    },
+    "26": {
+        "bits": [
+            8
+        ],
+        "name": "Unknown",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "manarecovery"
+    },
+    "27": {
+        "bits": [
+            8
+        ],
+        "name": "Regenerate Mana {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "manarecoverybonus"
+    },
+    "28": {
+        "bits": [
+            8
+        ],
+        "name": "Heal Stamina {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "staminarecoverybonus"
+    },
+    "31": {
+        "bits": [
+            11
+        ],
+        "bias": 10,
+        "name": "+{} Defense",
+        "is_invisible": false,
+        "stat_name": "armorclass"
+    },
+    "32": {
+        "bits": [
+            9
+        ],
+        "name": "+{} vs. Missile",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "armorclass_vs_missile"
+    },
+    "33": {
+        "bits": [
+            8
+        ],
+        "bias": 0,
+        "name": "+{} vs. Melee",
+        "is_invisible": false,
+        "stat_name": "armorclass_vs_hth"
+    },
+    "34": {
+        "bits": [
+            6
+        ],
+        "name": "Damage Reduced by {}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "normal_damage_reduction"
+    },
+    "35": {
+        "bits": [
+            6
+        ],
+        "name": "Magic Damage Reduced by {}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "magic_damage_reduction"
+    },
+    "36": {
+        "bits": [
+            8
+        ],
+        "name": "Damage Reduced by {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "damageresist"
+    },
+    "37": {
+        "bits": [
+            8
+        ],
+        "name": "Magic Resist +{}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "magicresist"
+    },
+    "38": {
+        "bits": [
+            5
+        ],
+        "name": "+{}% to Maximum Magic Resist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxmagicresist"
+    },
+    "39": {
+        "bits": [
+            8
+        ],
+        "bias": 50,
+        "name": "Fire Resist +{}%",
+        "is_invisible": false,
+        "stat_name": "fireresist"
+    },
+    "40": {
+        "bits": [
+            5
+        ],
+        "name": "+{}% to Maximum Fire Resist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxfireresist"
+    },
+    "41": {
+        "bits": [
+            8
+        ],
+        "bias": 50,
+        "name": "Lightning Resist +{}%",
+        "is_invisible": false,
+        "stat_name": "lightresist"
+    },
+    "42": {
+        "bits": [
+            5
+        ],
+        "name": "+{}% to Maximum Lightning Resist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxlightresist"
+    },
+    "43": {
+        "bits": [
+            8
+        ],
+        "bias": 50,
+        "name": "Cold Resist +{}%",
+        "is_invisible": false,
+        "stat_name": "coldresist"
+    },
+    "44": {
+        "bits": [
+            5
+        ],
+        "name": "+{}% to Maximum Cold Resist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxcoldresist"
+    },
+    "45": {
+        "bits": [
+            8
+        ],
+        "bias": 50,
+        "name": "Poison Resist +{}%",
+        "is_invisible": false,
+        "stat_name": "poisonresist"
+    },
+    "46": {
+        "bits": [
+            5
+        ],
+        "name": "+{}% to Maximum Poison Resist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxpoisonresist"
+    },
+    "48": {
+        "bits": [
+            10,
+            10
+        ],
+        "name": "Adds {} to {} Fire Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "firemindam"
+    },
+    "49": {
+        "bits": [
+            10
+        ],
+        "name": "+{} to Maximum Fire Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "firemaxdam"
+    },
+    "50": {
+        "bits": [
+            10,
+            10
+        ],
+        "name": "Adds {} to {} Lightning Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "lightmindam"
+    },
+    "51": {
+        "bits": [
+            10
+        ],
+        "name": "Adds {}(Max) Lightning Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "lightmaxdam"
+    },
+    "52": {
+        "bits": [
+            10,
+            10
+        ],
+        "name": "Adds {} to {} Magic Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "magicmindam"
+    },
+    "53": {
+        "bits": [
+            10
+        ],
+        "name": "Adds {}(Max) Magic Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "magicmaxdam"
+    },
+    "54": {
+        "bits": [
+            8,
+            9,
+            8
+        ],
+        "name": "Adds {} to {} Cold Damage in {}s",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "coldmindam"
+    },
+    "55": {
+        "bits": [
+            9
+        ],
+        "name": "Adds {}(Max) Cold Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "coldmaxdam"
+    },
+    "56": {
+        "bits": [
+            8
+        ],
+        "name": "{} Cold Length",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "coldlength"
+    },
+    "57": {
+        "bits": [
+            14,
+            14,
+            9
+        ],
+        "name": "Adds {} to {} Poison Damage Over {}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "poisonmindam"
+    },
+    "58": {
+        "bits": [
+            14
+        ],
+        "name": "Adds {}(Max) Poison Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "poisonmaxdam"
+    },
+    "59": {
+        "bits": [
+            9
+        ],
+        "name": "{} Poison Length",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "poisonlength"
+    },
+    "60": {
+        "bits": [
+            7
+        ],
+        "name": "{}% Life Stolen Per Hit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "lifedrainmindam"
+    },
+    "62": {
+        "bits": [
+            7
+        ],
+        "name": "{}% Mana Stolen Per Hit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "manadrainmindam"
+    },
+    "67": {
+        "bits": [
+            7
+        ],
+        "bias": 30,
+        "name": "Unknown",
+        "is_invisible": true,
+        "stat_name": "velocitypercent"
+    },
+    "68": {
+        "bits": [
+            7
+        ],
+        "bias": 30,
+        "name": "Unknown",
+        "is_invisible": true,
+        "stat_name": "attackrate"
+    },
+    "71": {
+        "bits": [
+            8
+        ],
+        "bias": 100,
+        "name": "Unknown",
+        "is_invisible": true,
+        "stat_name": "value"
+    },
+    "72": {
+        "bits": [
+            9
+        ],
+        "name": "Unknown",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "durability"
+    },
+    "73": {
+        "bits": [
+            8
+        ],
+        "name": "+{} Maximum Durability",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxdurability"
+    },
+    "74": {
+        "bits": [
+            10
+        ],
+        "bias": 30,
+        "name": "Replenish Life +{}",
+        "is_invisible": false,
+        "stat_name": "hpregen"
+    },
+    "75": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "Increase Maximum Durability {}%",
+        "is_invisible": false,
+        "stat_name": "item_maxdurability_percent"
+    },
+    "76": {
+        "bits": [
+            6
+        ],
+        "bias": 10,
+        "name": "Increase Maximum Life {}%",
+        "is_invisible": false,
+        "stat_name": "item_maxhp_percent"
+    },
+    "77": {
+        "bits": [
+            6
+        ],
+        "bias": 10,
+        "name": "Increase Maximum Mana {}%",
+        "is_invisible": false,
+        "stat_name": "item_maxmana_percent"
+    },
+    "78": {
+        "bits": [
+            11
+        ],
+        "name": "Attacker Takes Damage of {}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_attackertakesdamage"
+    },
+    "79": {
+        "bits": [
+            9
+        ],
+        "bias": 100,
+        "name": "{}% Extra Gold from Monsters",
+        "is_invisible": false,
+        "stat_name": "item_goldbonus"
+    },
+    "80": {
+        "bits": [
+            8
+        ],
+        "bias": 100,
+        "name": "{}% Better Chance of Getting Magic Items",
+        "is_invisible": false,
+        "stat_name": "item_magicbonus"
+    },
+    "81": {
+        "bits": [
+            7
+        ],
+        "name": "Knockback",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_knockback"
+    },
+    "82": {
+        "bits": [
+            9
+        ],
+        "bias": 20,
+        "name": "Unknown",
+        "is_invisible": true,
+        "stat_name": "item_timeduration"
+    },
+    "83": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{1} to {0} Skill Levels",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_addclassskills"
+    },
+    "85": {
+        "bits": [
+            9
+        ],
+        "bias": 50,
+        "name": "{}% To Experience Gained",
+        "is_invisible": false,
+        "stat_name": "item_addexperience"
+    },
+    "86": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Life After Each Kill",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_healafterkill"
+    },
+    "87": {
+        "bits": [
+            7
+        ],
+        "name": "Reduces Prices {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_reducedprices"
+    },
+    "88": {
+        "bits": [
+            1
+        ],
+        "name": "Unknown",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "item_doubleherbduration"
+    },
+    "89": {
+        "bits": [
+            4
+        ],
+        "bias": 4,
+        "name": "+{} to Light Radius",
+        "is_invisible": false,
+        "stat_name": "item_lightradius"
+    },
+    "90": {
+        "bits": [
+            24
+        ],
+        "name": "Ambient light",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "item_lightcolor"
+    },
+    "91": {
+        "bits": [
+            8
+        ],
+        "bias": 100,
+        "name": "Requirements {}%",
+        "is_invisible": false,
+        "stat_name": "item_req_percent"
+    },
+    "92": {
+        "bits": [
+            7
+        ],
+        "name": "Level requirements +{}",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "item_levelreq"
+    },
+    "93": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "{}% Increased Attack Speed",
+        "is_invisible": false,
+        "stat_name": "item_fasterattackrate"
+    },
+    "94": {
+        "bits": [
+            7
+        ],
+        "bias": 64,
+        "name": "Unknown",
+        "is_invisible": true,
+        "stat_name": "item_levelreqpct"
+    },
+    "96": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "{}% Faster Run/Walk",
+        "is_invisible": false,
+        "stat_name": "item_fastermovevelocity"
+    },
+    "97": {
+        "bits": [
+            9,
+            6
+        ],
+        "name": "+{1} To {0}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_nonclassskill"
+    },
+    "98": {
+        "bits": [
+            8,
+            1
+        ],
+        "name": "{1}+ to {0}",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "state"
+    },
+    "99": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "{}% Faster Hit Recovery",
+        "is_invisible": false,
+        "stat_name": "item_fastergethitrate"
+    },
+    "102": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "{}% Faster Block Rate",
+        "is_invisible": false,
+        "stat_name": "item_fasterblockrate"
+    },
+    "105": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "{}% Faster Cast Rate",
+        "is_invisible": false,
+        "stat_name": "item_fastercastrate"
+    },
+    "107": {
+        "bits": [
+            9,
+            3
+        ],
+        "name": "+{1} To {0}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_singleskill"
+    },
+    "108": {
+        "bits": [
+            1
+        ],
+        "name": "Rest In Peace",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_restinpeace"
+    },
+    "109": {
+        "bits": [
+            9
+        ],
+        "name": "{} curse_resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "curse_resistance"
+    },
+    "110": {
+        "bits": [
+            8
+        ],
+        "bias": 20,
+        "name": "Poison Length Reduced by {}%",
+        "is_invisible": false,
+        "stat_name": "item_poisonlengthresist"
+    },
+    "111": {
+        "bits": [
+            9
+        ],
+        "bias": 20,
+        "name": "Damage +{}",
+        "is_invisible": false,
+        "stat_name": "item_normaldamage"
+    },
+    "112": {
+        "bits": [
+            7
+        ],
+        "name": "Hit Causes Monsters to Flee {}%",
+        "bias": -1,
+        "is_invisible": false,
+        "stat_name": "item_howl"
+    },
+    "113": {
+        "bits": [
+            7
+        ],
+        "name": "Hit Blinds Target +{}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_stupidity"
+    },
+    "114": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Damage Taken Goes to Mana",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_damagetomana"
+    },
+    "115": {
+        "bits": [
+            1
+        ],
+        "name": "Ignore Target Defense",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_ignoretargetac"
+    },
+    "116": {
+        "bits": [
+            7
+        ],
+        "name": "{}% Target Defense",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_fractionaltargetac"
+    },
+    "117": {
+        "bits": [
+            7
+        ],
+        "name": "Prevent Monster Heal",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_preventheal"
+    },
+    "118": {
+        "bits": [
+            1
+        ],
+        "name": "Half Freeze Duration",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_halffreezeduration"
+    },
+    "119": {
+        "bits": [
+            9
+        ],
+        "bias": 20,
+        "name": "{}% Bonus to Attack Rating",
+        "is_invisible": false,
+        "stat_name": "item_tohit_percent"
+    },
+    "120": {
+        "bits": [
+            10
+        ],
+        "bias": 256,
+        "name": "{} to Monster Defense Per Hit",
+        "is_invisible": false,
+        "stat_name": "item_damagetargetac"
+    },
+    "121": {
+        "bits": [
+            9
+        ],
+        "bias": 20,
+        "name": "+{}% Damage to Demons",
+        "is_invisible": false,
+        "stat_name": "item_demondamage_percent"
+    },
+    "122": {
+        "bits": [
+            9
+        ],
+        "bias": 20,
+        "name": "+{}% Damage to Undead",
+        "is_invisible": false,
+        "stat_name": "item_undeaddamage_percent"
+    },
+    "123": {
+        "bits": [
+            10
+        ],
+        "bias": 128,
+        "name": "+{} to Attack Rating against Demons",
+        "is_invisible": false,
+        "stat_name": "item_demon_tohit"
+    },
+    "124": {
+        "bits": [
+            10
+        ],
+        "bias": 128,
+        "name": "+{} to Attack Rating against Undead",
+        "is_invisible": false,
+        "stat_name": "item_undead_tohit"
+    },
+    "125": {
+        "bits": [
+            1
+        ],
+        "name": "Throwable",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_throwable"
+    },
+    "126": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{1} to {0} Skills",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_elemskill"
+    },
+    "127": {
+        "bits": [
+            3
+        ],
+        "name": "+{} to All Skill Levels",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_allskills"
+    },
+    "128": {
+        "bits": [
+            11
+        ],
+        "name": "Attacker Takes Lightning Damage of {}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_attackertakeslightdamage"
+    },
+    "134": {
+        "bits": [
+            5
+        ],
+        "name": "Freezes Target +{}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_freeze"
+    },
+    "135": {
+        "bits": [
+            7
+        ],
+        "name": "{}% Chance of Open Wounds",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_openwounds"
+    },
+    "136": {
+        "bits": [
+            7
+        ],
+        "name": "{}% Chance of Crushing Blow",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_crushingblow"
+    },
+    "137": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Kick Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_kickdamage"
+    },
+    "138": {
+        "bits": [
+            7
+        ],
+        "name": "+{} to Mana After Each Kill",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_manaafterkill"
+    },
+    "139": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Life after each Demon Kill",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_healafterdemonkill"
+    },
+    "140": {
+        "bits": [
+            7
+        ],
+        "name": "Extra Blood",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "item_extrablood"
+    },
+    "141": {
+        "bits": [
+            7
+        ],
+        "name": "{}% Deadly Strike",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_deadlystrike"
+    },
+    "142": {
+        "bits": [
+            7
+        ],
+        "name": "Fire Absorb {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorbfire_percent"
+    },
+    "143": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Fire Absorb",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorbfire"
+    },
+    "144": {
+        "bits": [
+            7
+        ],
+        "name": "Lightning Absorb {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorblight_percent"
+    },
+    "145": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Lightning Absorb",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorblight"
+    },
+    "146": {
+        "bits": [
+            7
+        ],
+        "name": "Magic Absorb {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorbmagic_percent"
+    },
+    "147": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Magic Absorb",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorbmagic"
+    },
+    "148": {
+        "bits": [
+            7
+        ],
+        "name": "Cold Absorb {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorbcold_percent"
+    },
+    "149": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Cold Absorb",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorbcold"
+    },
+    "150": {
+        "bits": [
+            7
+        ],
+        "name": "Slows Target by {}%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_slow"
+    },
+    "151": {
+        "bits": [
+            9,
+            5
+        ],
+        "name": "Level +{1} {0} When Equipped",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_aura"
+    },
+    "152": {
+        "bits": [
+            1
+        ],
+        "name": "Indestructible",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_indesctructible"
+    },
+    "153": {
+        "bits": [
+            1
+        ],
+        "name": "Cannot Be Frozen",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_cannotbefrozen"
+    },
+    "154": {
+        "bits": [
+            7
+        ],
+        "bias": 20,
+        "name": "{}% Slower Stamina Drain",
+        "is_invisible": false,
+        "stat_name": "item_staminadrainpct"
+    },
+    "155": {
+        "bits": [
+            10,
+            7
+        ],
+        "name": "{1}% Chance to Reanimate {0}",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_reanimate"
+    },
+    "156": {
+        "bits": [
+            7
+        ],
+        "name": "Piercing Attack",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_pierce"
+    },
+    "157": {
+        "bits": [
+            7
+        ],
+        "name": "Fires Magic Arrows",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_magicarrow"
+    },
+    "158": {
+        "bits": [
+            7
+        ],
+        "name": "Fires Explosive Arrows or Bolts",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_explosivearrow"
+    },
+    "159": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Minimum Throw Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_throw_mindamage"
+    },
+    "160": {
+        "bits": [
+            7
+        ],
+        "name": "+{} to Maximum Throw Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_throw_maxdamage"
+    },
+    "179": {
+        "bits": [
+            10,
+            9
+        ],
+        "name": "+{1} {0} attack_vs_montype",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "attack_vs_montype"
+    },
+    "180": {
+        "bits": [
+            10,
+            9
+        ],
+        "name": "+{1} {0} attack_vs_montype",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "damage_vs_montype"
+    },
+    "181": {
+        "bits": [
+            3
+        ],
+        "name": "+{} fade",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "fade"
+    },
+    "183": {
+        "bits": [
+            1
+        ],
+        "name": "{} equipped_eth",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "equipped_eth"
+    },
+    "185": {
+        "bits": [
+            5
+        ],
+        "name": "+{} uber_difficulty",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "uber_difficulty"
+    },
+    "186": {
+        "bits": [
+            2
+        ],
+        "name": "+{} map_glob_boss_dropskillers",
+        "bias": 2,
+        "is_invisible": false,
+        "stat_name": "map_glob_boss_dropskillers"
+    },
+    "187": {
+        "bits": [
+            2
+        ],
+        "name": "+{} map_glob_boss_dropcorruptedunique",
+        "bias": 2,
+        "is_invisible": false,
+        "stat_name": "map_glob_boss_dropcorruptedunique"
+    },
+    "188": {
+        "bits": [
+            16,
+            3
+        ],
+        "name": "+{1} to {0} (class only)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_addskill_tab"
+    },
+    "189": {
+        "bits": [
+            5
+        ],
+        "name": "+{} openwounds_stack",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "openwounds_stack"
+    },
+    "190": {
+        "bits": [
+            3
+        ],
+        "name": "+{} curse_slots",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "curse_slots"
+    },
+    "194": {
+        "bits": [
+            4
+        ],
+        "name": "Adds {} extra sockets to the item",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_numsockets"
+    },
+    "195": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} On Striking",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skillonattack"
+    },
+    "196": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} On Kill",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skillonkill"
+    },
+    "197": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} On Death",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skillondeath"
+    },
+    "198": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} On Hit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skillonhit"
+    },
+    "199": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} On Level Up",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skillonlevelup"
+    },
+    "200": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} On Cast",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skilloncast"
+    },
+    "201": {
+        "bits": [
+            6,
+            10,
+            7
+        ],
+        "name": "{2}% Chance to Cast Level {0} {1} When Struck",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_skillongethit"
+    },
+    "204": {
+        "bits": [
+            6,
+            10,
+            8,
+            8
+        ],
+        "name": "Level {} {} ({}/{} Charges)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_charged_skill"
+    },
+    "214": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Defense (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_armor_perlevel"
+    },
+    "215": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Enhanced Defense (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_armorpercent_perlevel"
+    },
+    "216": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Life (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_hp_perlevel"
+    },
+    "217": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Mana (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_mana_perlevel"
+    },
+    "218": {
+        "bits": [
+            5
+        ],
+        "name": "+{} to Maximum Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_maxdamage_perlevel"
+    },
+    "219": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Enhanced Maximum Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_maxdamage_percent_perlevel"
+    },
+    "220": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Strength (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_strength_perlevel"
+    },
+    "221": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Dexterity (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_dexterity_perlevel"
+    },
+    "222": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Energy (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_energy_perlevel"
+    },
+    "223": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Vitality (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_vitality_perlevel"
+    },
+    "224": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Attack Rating (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_perlevel"
+    },
+    "225": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Bonus to Attack Rating (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohitpercent_perlevel"
+    },
+    "226": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Cold Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_cold_damagemax_perlevel"
+    },
+    "227": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Fire Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_fire_damagemax_perlevel"
+    },
+    "228": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Lightning Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_ltng_damagemax_perlevel"
+    },
+    "229": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Poison Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_pois_damagemax_perlevel"
+    },
+    "230": {
+        "bits": [
+            6
+        ],
+        "name": "old Resist +{}% (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_cold_perlevel"
+    },
+    "231": {
+        "bits": [
+            6
+        ],
+        "name": "ire Resist +{}% (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_fire_perlevel"
+    },
+    "232": {
+        "bits": [
+            6
+        ],
+        "name": "ightning Resist +{}% (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_ltng_perlevel"
+    },
+    "233": {
+        "bits": [
+            6
+        ],
+        "name": "oison Resist +{}% (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_pois_perlevel"
+    },
+    "234": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Cold Absorb (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_cold_perlevel"
+    },
+    "235": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Fire Absorb (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_fire_perlevel"
+    },
+    "236": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Lightning Absorb (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_ltng_perlevel"
+    },
+    "237": {
+        "bits": [
+            6
+        ],
+        "name": "{} Poison Absorb (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_pois_perlevel"
+    },
+    "238": {
+        "bits": [
+            12
+        ],
+        "name": "Attacker Takes Damage of {} (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_thorns_perlevel"
+    },
+    "239": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Extra Gold from Monsters (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_find_gold_perlevel"
+    },
+    "240": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Better Chance of Getting Magic Items (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_find_magic_perlevel"
+    },
+    "241": {
+        "bits": [
+            6
+        ],
+        "name": "eal Stamina Plus {}% (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_regenstamina_perlevel"
+    },
+    "242": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Maxmium Stamina (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_stamina_perlevel"
+    },
+    "243": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Damage to Demons (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_damage_demon_perlevel"
+    },
+    "244": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Damage to Undead (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_damage_undead_perlevel"
+    },
+    "245": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Attack Rating against Demons (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_demon_perlevel"
+    },
+    "246": {
+        "bits": [
+            6
+        ],
+        "name": "+{} to Attack Rating against Undead (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_undead_perlevel"
+    },
+    "247": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Chance of Crushing Blow (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_crushingblow_perlevel"
+    },
+    "248": {
+        "bits": [
+            6
+        ],
+        "name": "{}% Chance of Open Wounds (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_openwounds_perlevel"
+    },
+    "249": {
+        "bits": [
+            6
+        ],
+        "name": "+{} Kick Damage (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_kick_damage_perlevel"
+    },
+    "250": {
+        "bits": [
+            6
+        ],
+        "name": "{}% to Deadly Strike (Based on Character Level)",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_deadlystrike_perlevel"
+    },
+    "252": {
+        "bits": [
+            6
+        ],
+        "name": "Repairs 1 Durability in {} Seconds",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_replenish_durability"
+    },
+    "253": {
+        "bits": [
+            6
+        ],
+        "name": "Replenishes Quantity",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_replenish_quantity"
+    },
+    "254": {
+        "bits": [
+            8
+        ],
+        "name": "Increased Stack Size",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_extra_stack"
+    },
+    "268": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_armor_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_armor_bytime"
+    },
+    "269": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_armorpercent_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_armorpercent_bytime"
+    },
+    "270": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_hp_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_hp_bytime"
+    },
+    "271": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_mana_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_mana_bytime"
+    },
+    "272": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_maxdamage_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_maxdamage_bytime"
+    },
+    "273": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_maxdamage_percent_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_maxdamage_percent_bytime"
+    },
+    "274": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_strength_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_strength_bytime"
+    },
+    "275": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_dexterity_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_dexterity_bytime"
+    },
+    "276": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_energy_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_energy_bytime"
+    },
+    "277": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_vitality_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_vitality_bytime"
+    },
+    "278": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_tohit_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_bytime"
+    },
+    "279": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_tohitpercent_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohitpercent_bytime"
+    },
+    "280": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_cold_damagemax_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_cold_damagemax_bytime"
+    },
+    "281": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_fire_damagemax_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_fire_damagemax_bytime"
+    },
+    "282": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_ltng_damagemax_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_ltng_damagemax_bytime"
+    },
+    "283": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_pois_damagemax_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_pois_damagemax_bytime"
+    },
+    "284": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_resist_cold_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_cold_bytime"
+    },
+    "285": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_resist_fire_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_fire_bytime"
+    },
+    "286": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_resist_ltng_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_ltng_bytime"
+    },
+    "287": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_resist_pois_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_resist_pois_bytime"
+    },
+    "288": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_absorb_cold_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_cold_bytime"
+    },
+    "289": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_absorb_fire_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_fire_bytime"
+    },
+    "290": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_absorb_ltng_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_ltng_bytime"
+    },
+    "291": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_absorb_pois_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_absorb_pois_bytime"
+    },
+    "292": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_find_gold_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_find_gold_bytime"
+    },
+    "293": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_find_magic_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_find_magic_bytime"
+    },
+    "294": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_regenstamina_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_regenstamina_bytime"
+    },
+    "295": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_stamina_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_stamina_bytime"
+    },
+    "296": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_damage_demon_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_damage_demon_bytime"
+    },
+    "297": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_damage_undead_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_damage_undead_bytime"
+    },
+    "298": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_tohit_demon_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_demon_bytime"
+    },
+    "299": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_tohit_undead_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_undead_bytime"
+    },
+    "299": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_tohit_undead_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_undead_bytime"
+    },
+    "299": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_tohit_undead_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_tohit_undead_bytime"
+    },
+    "300": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_crushingblow_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_crushingblow_bytime"
+    },
+    "301": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_openwounds_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_openwounds_bytime"
+    },
+    "302": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_kick_damage_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_kick_damage_bytime"
+    },
+    "303": {
+        "bits": [
+            22
+        ],
+        "name": "{} item_deadlystrike_bytime",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_deadlystrike_bytime"
+    },
+    "305": {
+        "bits": [
+            6
+        ],
+        "bias": 50,
+        "name": "{} Pierce Cold",
+        "is_invisible": false,
+        "stat_name": "item_pierce_cold"
+    },
+    "306": {
+        "bits": [
+            6
+        ],
+        "bias": 50,
+        "name": "{} Pierce Fire",
+        "is_invisible": false,
+        "stat_name": "item_pierce_fire"
+    },
+    "307": {
+        "bits": [
+            6
+        ],
+        "bias": 50,
+        "name": "{} Pierce Lightning",
+        "is_invisible": false,
+        "stat_name": "item_pierce_ltng"
+    },
+    "308": {
+        "bits": [
+            6
+        ],
+        "bias": 50,
+        "name": "{} Pierce Poision",
+        "is_invisible": false,
+        "stat_name": "item_pierce_pois"
+    },
+    "324": {
+        "bits": [
+            6
+        ],
+        "name": "Unknown",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "item_extra_charges"
+    },
+    "329": {
+        "bits": [
+            9
+        ],
+        "bias": 50,
+        "name": "{}% To Fire Skill Damage",
+        "is_invisible": false,
+        "stat_name": "passive_fire_mastery"
+    },
+    "330": {
+        "bits": [
+            9
+        ],
+        "bias": 50,
+        "name": "{}% To Lightning Skill Damage",
+        "is_invisible": false,
+        "stat_name": "passive_ltng_mastery"
+    },
+    "331": {
+        "bits": [
+            9
+        ],
+        "bias": 50,
+        "name": "{}% To Cold Skill Damage",
+        "is_invisible": false,
+        "stat_name": "passive_cold_mastery"
+    },
+    "332": {
+        "bits": [
+            9
+        ],
+        "bias": 50,
+        "name": "{}% To Poison Skill Damage",
+        "is_invisible": false,
+        "stat_name": "passive_pois_mastery"
+    },
+    "333": {
+        "bits": [
+            8
+        ],
+        "name": "-{}% To Enemy Fire Resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_fire_pierce"
+    },
+    "334": {
+        "bits": [
+            8
+        ],
+        "name": "-{}% To Enemy Lightning Resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_ltng_pierce"
+    },
+    "335": {
+        "bits": [
+            8
+        ],
+        "name": "-{}% To Enemy Cold Resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_cold_pierce"
+    },
+    "336": {
+        "bits": [
+            8
+        ],
+        "name": "-{}% To Enemy Poison Resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_pois_pierce"
+    },
+    "337": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_critical_strike",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_critical_strike"
+    },
+    "338": {
+        "bits": [
+            7
+        ],
+        "name": "{} To passive_dodge",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_dodge"
+    },
+    "339": {
+        "bits": [
+            7
+        ],
+        "name": "{} To passive_avoid",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_avoid"
+    },
+    "340": {
+        "bits": [
+            7
+        ],
+        "name": "{} To passive_evade",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_evade"
+    },
+    "341": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_warmth",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_warmth"
+    },
+    "342": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_mastery_melee_th",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mastery_melee_th"
+    },
+    "343": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_mastery_melee_dmg",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mastery_melee_dmg"
+    },
+    "344": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_mastery_melee_crit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mastery_melee_crit"
+    },
+    "345": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_mastery_throw_th",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mastery_throw_th"
+    },
+    "346": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_mastery_throw_dmg",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mastery_throw_dmg"
+    },
+    "347": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_mastery_throw_crit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mastery_throw_crit"
+    },
+    "348": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_weaponblock",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_weaponblock"
+    },
+    "349": {
+        "bits": [
+            8
+        ],
+        "name": "{} To passive_summon_resist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_summon_resist"
+    },
+    "356": {
+        "bits": [
+            2
+        ],
+        "name": "Quest Item Difficulty +{}",
+        "is_invisible": true,
+        "bias": 0,
+        "stat_name": "questitemdifficulty"
+    },
+    "357": {
+        "bits": [
+            9
+        ],
+        "name": "{}% To Magic Skill Damage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mag_mastery"
+    },
+    "358": {
+        "bits": [
+            8
+        ],
+        "name": "-{}% To Enemy Magic Resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_mag_pierce"
+    },
+    "359": {
+        "bits": [
+            16,
+            7
+        ],
+        "name": "{} item_splashonhit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "Melee Attacks Deal Splash Damage"
+    },
+    "360": {
+        "bits": [
+            10,
+            10
+        ],
+        "name": "Corrupted({1})",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "corrupted"
+    },
+    "361": {
+        "bits": [
+            12
+        ],
+        "name": "{} corruptor",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "corruptor"
+    },
+    "362": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{1} to Cold Skills",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_elemskill_cold"
+    },
+    "363": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{} to Fire Skills",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_elemskill_fire"
+    },
+    "364": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{} to Lightning Skills",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_elemskill_lightning"
+    },
+    "365": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{} to Poison Skills",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_elemskill_poison"
+    },
+    "366": {
+        "bits": [
+            3,
+            3
+        ],
+        "name": "+{} to Magic Skills",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_elemskill_magic"
+    },
+    "368": {
+        "bits": [
+            3
+        ],
+        "name": "{} max_curses",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "max_curses"
+    },
+    "369": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_defense",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_defense"
+    },
+    "370": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_play_magicbonus",
+        "bias": 100,
+        "is_invisible": false,
+        "stat_name": "map_play_magicbonus"
+    },
+    "371": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_play_goldbonus",
+        "bias": 100,
+        "is_invisible": false,
+        "stat_name": "map_play_goldbonus"
+    },
+    "372": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_density",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_density"
+    },
+    "373": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_play_addexperience",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "map_play_addexperience"
+    },
+    "374": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_arealevel",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_arealevel"
+    },
+    "375": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_monsterrarity",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_monsterrarity"
+    },
+    "376": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_firemindam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_firemindam"
+    },
+    "377": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_firemaxdam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_firemaxdam"
+    },
+    "378": {
+        "bits": [
+            6
+        ],
+        "name": "{} map_mon_lightmindam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_lightmindam"
+    },
+    "379": {
+        "bits": [
+            10
+        ],
+        "name": "{} map_mon_lightmaxdam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_lightmaxdam"
+    },
+    "380": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_magicmindam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_magicmindam"
+    },
+    "381": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_magicmaxdam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_magicmaxdam"
+    },
+    "382": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_coldmindam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_coldmindam"
+    },
+    "383": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_coldmaxdam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_coldmaxdam"
+    },
+    "384": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_coldlength",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_coldlength"
+    },
+    "385": {
+        "bits": [
+            10
+        ],
+        "name": "{} map_mon_poisonmindam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_poisonmindam"
+    },
+    "386": {
+        "bits": [
+            10
+        ],
+        "name": "{} map_mon_poisonmaxdam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_poisonmaxdam"
+    },
+    "387": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_poisonlength",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_poisonlength"
+    },
+    "388": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_passive_fire_mastery",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_fire_mastery"
+    },
+    "389": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_passive_ltng_mastery",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_ltng_mastery"
+    },
+    "390": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_passive_cold_mastery",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_cold_mastery"
+    },
+    "391": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_passive_pois_mastery",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_pois_mastery"
+    },
+    "392": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_fasterattackrate",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_fasterattackrate"
+    },
+    "393": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_fastercastrate",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_fastercastrate"
+    },
+    "394": {
+        "bits": [
+            10
+        ],
+        "name": "{} map_mon_tohit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_tohit"
+    },
+    "395": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_ac",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_ac"
+    },
+    "396": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_absorbcold_percent",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_absorbcold_percent"
+    },
+    "397": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_absorbmagic_percent",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_absorbmagic_percent"
+    },
+    "398": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_absorblight_percent",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_absorblight_percent"
+    },
+    "399": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_absorbfire_percent",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_absorbfire_percent"
+    },
+    "400": {
+        "bits": [
+            10
+        ],
+        "name": "{} map_mon_normal_damage_reduction",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_normal_damage_reduction"
+    },
+    "401": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_velocitypercent",
+        "bias": 30,
+        "is_invisible": false,
+        "stat_name": "map_mon_velocitypercent"
+    },
+    "402": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_mon_hpregen",
+        "bias": 30,
+        "is_invisible": false,
+        "stat_name": "map_mon_hpregen"
+    },
+    "403": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_lifedrainmindam",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_lifedrainmindam"
+    },
+    "404": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_fastergethitrate",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_fastergethitrate"
+    },
+    "405": {
+        "bits": [
+            6
+        ],
+        "name": "{} map_mon_maxhp_percent",
+        "bias": 10,
+        "is_invisible": false,
+        "stat_name": "map_mon_maxhp_percent"
+    },
+    "406": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_pierce",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_pierce"
+    },
+    "407": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_openwounds",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_openwounds"
+    },
+    "408": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_crushingblow",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_crushingblow"
+    },
+    "409": {
+        "bits": [
+            9
+        ],
+        "name": "{} map_mon_curse_resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_curse_resistance"
+    },
+    "410": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_ac%",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_ac%"
+    },
+    "411": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_fastergethitrate",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_fastergethitrate"
+    },
+    "412": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_toblock",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_toblock"
+    },
+    "413": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_hpregen",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_hpregen"
+    },
+    "414": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_passive_fire_pierce",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_fire_pierce"
+    },
+    "415": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_passive_ltng_pierce",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_ltng_pierce"
+    },
+    "416": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_passive_cold_pierce",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_cold_pierce"
+    },
+    "417": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_mon_passive_pois_pierce",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_passive_pois_pierce"
+    },
+    "418": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_maxfireresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_maxfireresist"
+    },
+    "419": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_maxlightresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_maxlightresist"
+    },
+    "420": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_maxcoldresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_maxcoldresist"
+    },
+    "421": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_maxpoisonresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_maxpoisonresist"
+    },
+    "422": {
+        "bits": [
+            6
+        ],
+        "name": "Replenishes 1 Charge in 3 Seconds",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_replenish_charges"
+    },
+    "423": {
+        "bits": [
+            5
+        ],
+        "name": "{} item_leap_speed",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_leap_speed"
+    },
+    "424": {
+        "bits": [
+            7
+        ],
+        "name": "+{} Life after each Hit",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_healafterhit"
+    },
+    "425": {
+        "bits": [
+            8
+        ],
+        "name": "-{}% to Enemy Physical Resistance",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "passive_phys_pierce"
+    },
+    "426": {
+        "bits": [
+            10
+        ],
+        "name": "{} map_mon_ed%",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_ed%"
+    },
+    "427": {
+        "bits": [
+            16,
+            7
+        ],
+        "name": "{} map_mon_splash",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_splash"
+    },
+    "428": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_fireresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_fireresist"
+    },
+    "429": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_lightresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_lightresist"
+    },
+    "430": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_coldresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_coldresist"
+    },
+    "431": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_poisonresist",
+        "bias": 60,
+        "is_invisible": false,
+        "stat_name": "map_play_poisonresist"
+    },
+    "432": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_mon_phys_as_extra_ltng",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_phys_as_extra_ltng"
+    },
+    "433": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_mon_phys_as_extra_cold",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_phys_as_extra_cold"
+    },
+    "434": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_mon_phys_as_extra_fire",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_phys_as_extra_fire"
+    },
+    "435": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_mon_phys_as_extra_pois",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_phys_as_extra_pois"
+    },
+    "436": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_mon_phys_as_extra_mag",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_phys_as_extra_mag"
+    },
+    "437": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_doll",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_doll"
+    },
+    "438": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_succ",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_succ"
+    },
+    "439": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_vamp",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_vamp"
+    },
+    "440": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_cow",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_cow"
+    },
+    "441": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_horde",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_horde"
+    },
+    "442": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_ghost",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_ghost"
+    },
+    "443": {
+        "bits": [
+            5
+        ],
+        "name": "{} extra_bonespears",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_bonespears"
+    },
+    "444": {
+        "bits": [
+            5
+        ],
+        "name": "{} extra_revives",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_revives"
+    },
+    "445": {
+        "bits": [
+            9
+        ],
+        "name": "{} immune_stat",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "immune_stat"
+    },
+    "446": {
+        "bits": [
+            9
+        ],
+        "name": "{} mon_cooldown1",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "mon_cooldown1"
+    },
+    "447": {
+        "bits": [
+            9
+        ],
+        "name": "{} mon_cooldown2",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "mon_cooldown2"
+    },
+    "448": {
+        "bits": [
+            9
+        ],
+        "name": "{} mon_cooldown3",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "mon_cooldown3"
+    },
+    "449": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_deadlystrike",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_deadlystrike"
+    },
+    "450": {
+        "bits": [
+            1
+        ],
+        "name": "{} map_mon_cannotbefrozen",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_cannotbefrozen"
+    },
+    "451": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_play_fasterattackrate",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_play_fasterattackrate"
+    },
+    "452": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_play_fastercastrate",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_play_fastercastrate"
+    },
+    "453": {
+        "bits": [
+            16,
+            7
+        ],
+        "name": "{} map_mon_skillondeath",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_mon_skillondeath"
+    },
+    "454": {
+        "bits": [
+            6
+        ],
+        "name": "{} map_play_maxhp_percent",
+        "bias": 10,
+        "is_invisible": false,
+        "stat_name": "map_play_maxhp_percent"
+    },
+    "455": {
+        "bits": [
+            6
+        ],
+        "name": "{} map_play_maxmana_percent",
+        "bias": 10,
+        "is_invisible": false,
+        "stat_name": "map_play_maxmana_percent"
+    },
+    "456": {
+        "bits": [
+            8
+        ],
+        "name": "{} map_play_damageresist",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_play_damageresist"
+    },
+    "457": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_play_velocitypercent",
+        "bias": 30,
+        "is_invisible": false,
+        "stat_name": "map_play_velocitypercent"
+    },
+    "458": {
+        "bits": [
+            3
+        ],
+        "name": "{} heroic",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "heroic"
+    },
+    "459": {
+        "bits": [
+            5
+        ],
+        "name": "{} extra_spirits",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_spirits"
+    },
+    "460": {
+        "bits": [
+            6
+        ],
+        "name": "{} gustreduction",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "gustreduction"
+    },
+    "461": {
+        "bits": [
+            5
+        ],
+        "name": "YouMaySummon {} ExtraSkeleWar",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_skele_war"
+    },
+    "462": {
+        "bits": [
+            5
+        ],
+        "name": "YouMaySummon {} ExtraSkeleMage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_skele_mage"
+    },
+    "463": {
+        "bits": [
+            5
+        ],
+        "name": "YouMaySummon {} ExtraHydra",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_hydra"
+    },
+    "464": {
+        "bits": [
+            5
+        ],
+        "name": "YouMaySummon {} ExtraValk",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_valk"
+    },
+    "465": {
+        "bits": [
+            6
+        ],
+        "name": "{} joustreduction",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "joustreduction"
+    },
+    "466": {
+        "bits": [
+            5
+        ],
+        "name": "{} grims_extra_skele_mage",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "grims_extra_skele_mage"
+    },
+    "467": {
+        "bits": [
+            14
+        ],
+        "name": "{} map_play_lightradius",
+        "bias": 120,
+        "is_invisible": false,
+        "stat_name": "map_play_lightradius"
+    },
+    "468": {
+        "bits": [
+            5
+        ],
+        "name": "{} blood_warp_life_reduction",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "blood_warp_life_reduction"
+    },
+    "469": {
+        "bits": [
+            5
+        ],
+        "name": "{} pierce_count",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "pierce_count"
+    },
+    "470": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_souls",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_souls"
+    },
+    "471": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_fetish",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_fetish"
+    },
+    "472": {
+        "bits": [
+            3
+        ],
+        "name": "{} dclone_clout",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "dclone_clout"
+    },
+    "473": {
+        "bits": [
+            3
+        ],
+        "name": "{} maxlevel_clout",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "maxlevel_clout"
+    },
+    "474": {
+        "bits": [
+            3
+        ],
+        "name": "{} dev_clout",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "dev_clout"
+    },
+    "475": {
+        "bits": [
+            5
+        ],
+        "name": "{} extra_skele_archer",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_skele_archer"
+    },
+    "476": {
+        "bits": [
+            5
+        ],
+        "name": "{} extra_golem",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_golem"
+    },
+    "477": {
+        "bits": [
+            24
+        ],
+        "name": "{} transform_dye",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "transform_dye"
+    },
+    "478": {
+        "bits": [
+            5
+        ],
+        "name": "{} inc_splash_radius",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "inc_splash_radius"
+    },
+    "479": {
+        "bits": [
+            4
+        ],
+        "name": "{} item_numsockets_textonly",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_numsockets_textonly"
+    },
+    "480": {
+        "bits": [
+            3
+        ],
+        "name": "{} rathma_clout",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "rathma_clout"
+    },
+    "481": {
+        "bits": [
+            5
+        ],
+        "name": "{} extra_holybolts",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "extra_holybolts"
+    },
+    "482": {
+        "bits": [
+            5
+        ],
+        "name": "{} pvp_cd",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "pvp_cd"
+    },
+    "483": {
+        "bits": [
+            6
+        ],
+        "name": "{} dragonflightreduction",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "dragonflightreduction"
+    },
+    "484": {
+        "bits": [
+            6
+        ],
+        "name": "{} item_dmgpercent_pereth",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_dmgpercent_pereth"
+    },
+    "485": {
+        "bits": [
+            6
+        ],
+        "name": "{} corpseexplosionradius",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "corpseexplosionradius"
+    },
+    "486": {
+        "bits": [
+            10,
+            10
+        ],
+        "name": "Mirrored",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "mirrored"
+    },
+    "487": {
+        "bits": [
+            6
+        ],
+        "name": "{} item_dmgpercent_permissinghppercent",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "item_dmgpercent_permissinghppercent"
+    },
+    "488": {
+        "bits": [
+            7
+        ],
+        "name": "{} lifedrain_percentcap",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "lifedrain_percentcap"
+    },
+    "489": {
+        "bits": [
+            6
+        ],
+        "name": "{} inc_splash_radius_permissinghp",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "inc_splash_radius_permissinghp"
+    },
+    "490": {
+        "bits": [
+            11
+        ],
+        "name": "{} eaglehorn_raven",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "eaglehorn_raven"
+    },
+    "491": {
+        "bits": [
+            5
+        ],
+        "name": "{} pvp_disable",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "pvp_disable"
+    },
+    "492": {
+        "bits": [
+            5
+        ],
+        "name": "{} pvp_lld_cd",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "pvp_lld_cd"
+    },
+    "493": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_skirmish_mode",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_skirmish_mode"
+    },
+    "494": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_dropjewelry",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_dropjewelry"
+    },
+    "495": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_dropweapons",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_dropweapons"
+    },
+    "496": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_droparmor",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_droparmor"
+    },
+    "497": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_dropcrafting",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_dropcrafting"
+    },
+    "498": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_extra_boss",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_extra_boss"
+    },
+    "499": {
+        "bits": [
+            12
+        ],
+        "name": "{} map_glob_add_mon_shriek",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_glob_add_mon_shriek"
+    },
+    "500": {
+        "bits": [
+            6
+        ],
+        "name": "{} map_force_event",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "map_force_event"
+    },
+    "501": {
+        "bits": [
+            16
+        ],
+        "name": "+{} Open Wounds Damage per Second",
+        "bias": 0,
+        "is_invisible": false,
+        "stat_name": "deep_wounds"
+    },
+    "502": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_mon_dropcharms",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_mon_dropcharms"
+    },
+    "503": {
+        "bits": [
+            7
+        ],
+        "name": "{} map_glob_dropcorrupted",
+        "bias": 20,
+        "is_invisible": false,
+        "stat_name": "map_glob_dropcorrupted"
+    },
+    "504": {
+        "bits": [
+            8
+        ],
+        "name": "Curse Resistance +{}%",
+        "bias": 50,
+        "is_invisible": false,
+        "stat_name": "curse_effectiveness"
+    }
+}

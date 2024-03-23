@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diablo 2 Character Info</title>
+    <link rel="stylesheet" href="{{ static_url("styles.css") }}">
+</head>
+<body>
+    <div class="container">
+        <h1>{{char_save["char_name"]}}</h1>
+	<h1>Level {{char_save["char_level"]}} {{char_save["char_class"]}}</h1>
+    <div class="stash" id="Personal Inventory">
+    {% for item in inventory %}
+    {% if item.inventory_x >= 0%}
+    {% if item.item_img != '' %}
+    <div class="item {{item.display_rarity}} unknown" style="width: {{40*item.item_size[0]}}px; height: {{40*item.item_size[1]}}px; grid-row: {{item.inventory_y+1}} / span 5; grid-column: {{item.inventory_x+1}} / span 5; background-image: url('/static/img/{{item.item_img}}');" data-tooltip="{{item.display_attributes}}"></div>
+    {% else %}
+    <div class="item {{item.display_rarity}} unknown" style="width: {{40*item.item_size[0]}}px; height: {{40*item.item_size[1]}}px; grid-row: {{item.inventory_y+1}} / span 5; grid-column: {{item.inventory_x+1}} / span 5;" data-tooltip="{{item.display_attributes}}">{{item.name}}</div>
+    {% end %}
+    {% end %}
+    {% end %}
+    </div>
+
+
+    <div class="tooltip" id="tooltip"></div>
+        <div class="stats">
+            <div class="stat" style="color: #ff0000;">
+                <div class="stat-label">Life</div>
+                <div class="stat-value">{{char_save["attributes"]["max_hp"]}}</div>
+            </div>
+            <div class="stat" style="color: #0000ff;">
+                <div class="stat-label">Mana</div>
+                <div class="stat-value">{{char_save["attributes"]["max_mana"]}}</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Strength</div>
+                <div class="stat-value">{{char_save["attributes"]["strength"]}}</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Dexterity</div>
+                <div class="stat-value">{{char_save["attributes"]["dexterity"]}}</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Vitality</div>
+                <div class="stat-value">{{char_save["attributes"]["vitality"]}}</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Energy</div>
+                <div class="stat-value">{{char_save["attributes"]["energy"]}}</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Unused Stats</div>
+                <div class="stat-value">{{char_save["attributes"]["unused_stats"]}}</div>
+            </div>
+        </div>
+        <div class="skills">
+            {% for skill, level in char_save["skills"].items() %}
+        {% if level > 0 %}
+            <div class="skill">
+                <div class="skill-name">{{skill}}</div>
+                <div class="skill-level">{{level}}</div>
+            </div>
+            {% end %}
+        {% end %}
+            <!-- Add more skills here -->
+        </div>
+    </div>
+    <script src="{{ static_url("script.js") }}"></script>
+</body>
+</html>

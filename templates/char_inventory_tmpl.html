@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ static_url("styles.css") }}">
+    <title>Player's Stash</title>
+</head>
+<body>
+    <div class="stash" id="Personal Inventory">
+    {% for item in inventory %}
+    {% if item.inventory_x >= 0%}
+    {% if item.item_img != '' %}
+    <div class="item {{item.display_rarity}} unknown" style="width: {{50*item.item_size[0]}}px; height: {{50*item.item_size[1]}}px; grid-row: {{item.inventory_y+1}} / span 5; grid-column: {{item.inventory_x+1}} / span 5; background-image: url('/static/img/{{item.item_img}}');" data-tooltip="{{item.display_attributes}}"></div>
+    {% else %}
+    <div class="item {{item.display_rarity}} unknown" style="width: {{50*item.item_size[0]}}px; height: {{50*item.item_size[1]}}px; grid-row: {{item.inventory_y+1}} / span 5; grid-column: {{item.inventory_x+1}} / span 5;" data-tooltip="{{item.display_attributes}}">{{item.name}}</div>
+    {% end %}
+    {% end %}
+    {% end %}
+    </div>
+
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script src="{{ static_url("script.js") }}"></script>
+</body>
+</html>
